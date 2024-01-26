@@ -30,7 +30,7 @@ If you want apps added, please open an issue or (better yet) do it and open a PR
 <tr class="odd">
 <td>Delta icons</td>
 <td>Github</td>
-<td>Regex for downloading the foss version.</td>
+<td>Regex for downloading the foss version. No pre-releases.</td>
 </tr>
 <tr class="even">
 <td>Fennec</td>
@@ -76,7 +76,7 @@ Lawnchair team’s repo.</td>
 <tr class="even">
 <td>CloudStream</td>
 <td>Github</td>
-<td></td>
+<td>No pre-releases.</td>
 </tr>
 </tbody>
 </table>
