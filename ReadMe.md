@@ -73,5 +73,10 @@ Lawnchair team’s repo.</td>
 <td>Github (j-hc)</td>
 <td>Regex for downloading the Extended version.</td>
 </tr>
+<tr class="even">
+<td>CloudStream</td>
+<td>Github</td>
+<td></td>
+</tr>
 </tbody>
 </table>
