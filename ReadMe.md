@@ -13,68 +13,68 @@ If you want apps added, please open an issue or (better yet) do it and open a PR
 <td>Notes</td>
 </tr>
 <tr class="even">
-<td>Aegis</td>
+<td><a href="https://github.com/beemdevelopment/Aegis">Aegis</a></td>
 <td>Github</td>
 <td></td>
 </tr>
 <tr class="odd">
-<td>Bitwarden</td>
+<td><a href="https://github.com/bitwarden/mobile">Bitwarden</a></td>
 <td>Github</td>
 <td>Regex for downloading the f-droid version.</td>
 </tr>
 <tr class="even">
-<td>Breezy Weather</td>
+<td><a href="https://github.com/breezy-weather/breezy-weather">Breezy Weather</a></td>
 <td>Github</td>
 <td></td>
 </tr>
 <tr class="odd">
-<td>Delta icons</td>
+<td><a href="https://github.com/Delta-Icons/android">Delta icons</a></td>
 <td>Github</td>
 <td>Regex for downloading the foss version. No pre-releases.</td>
 </tr>
 <tr class="even">
-<td>Fennec</td>
+<td><a href="https://f-droid.org/packages/org.mozilla.fennec_fdroid">Fennec</a></td>
 <td>F-droid</td>
 <td></td>
 </tr>
 <tr class="odd">
-<td>Lawnchair</td>
+<td><a href="https://github.com/Goooler/LawnchairRelease">Lawnchair</a></td>
 <td>Github</td>
 <td>Downloads non-debug Lawnchair 14 releases from Gooler’s repo, not
 Lawnchair team’s repo.</td>
 </tr>
 <tr class="even">
-<td>Librera</td>
+<td><a href="https://github.com/foobnix/LibreraReader">Librera</a></td>
 <td>Github</td>
 <td>Regex for downloading f-droid, arm64 version. </td>
 </tr>
 <tr class="odd">
-<td>Material Files</td>
+<td><a href="https://f-droid.org/packages/me.zhanghai.android.files">Material Files</a></td>
 <td>F-droid</td>
 <td>F-droid build doesn’t have trackers.</td>
 </tr>
 <tr class="even">
-<td>Shelter</td>
+<td><a href="https://f-droid.org/packages/net.typeblog.shelter">Shelter</a></td>
 <td>F-droid</td>
 <td></td>
 </tr>
 <tr class="odd">
-<td>Vanced microG</td>
+<td><a href="https://github.com/inotia00/VancedMicroG">Vanced microG</a></td>
 <td>Github (inotia00)</td>
 <td>Required for Revanced apps without root.</td>
 </tr>
 <tr class="even">
-<td>YouTube Music Revanced Extended</td>
+<td><a href="https://github.com/j-hc/revanced-magisk-module">YouTube Music Revanced Extended</a></td>
 <td>Github (j-hc)</td>
 <td>Regex for downloading the Extended version, arm64-v8a.</td>
 </tr>
 <tr class="odd">
-<td>YouTube Revanced Extended</td>
+<td><a href="https://github.com/j-hc/revanced-magisk-modules">YouTube Revanced Extended</a></td>
 <td>Github (j-hc)</td>
 <td>Regex for downloading the Extended version.</td>
 </tr>
 <tr class="even">
-<td>CloudStream</td>
+<td><a href="https://github.com/recloudstream/cloudstream">CloudStream</a></td>
 <td>Github</td>
 <td>No pre-releases.</td>
 </tr>
