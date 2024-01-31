@@ -35,7 +35,7 @@ If you want apps added, please open an issue or (better yet) do it and open a PR
 <tr class="even">
 <td><a href="https://f-droid.org/packages/org.mozilla.fennec_fdroid">Fennec</a></td>
 <td>F-droid</td>
-<td></td>
+<td>Regex for downloading the *0020* version. I don't know how it is different from the *0000* version.</td>
 </tr>
 <tr class="odd">
 <td><a href="https://github.com/Goooler/LawnchairRelease">Lawnchair</a></td>
@@ -77,6 +77,11 @@ Lawnchair team’s repo.</td>
 <td><a href="https://github.com/recloudstream/cloudstream">CloudStream</a></td>
 <td>Github</td>
 <td>No pre-releases.</td>
+</tr>
+<tr class="odd">
+<td><a href="https://github.com/ImranR98/Obtainium">Obtainium</td>
+<td>Github</td>
+<td>Regex for downloading release (non-f-droid) version. Currently the release notes say "APKs with the f-droid label should be ignored for now." </td>
 </tr>
 </tbody>
 </table>
