@@ -64,8 +64,8 @@ Lawnchair team’s repo.</td>
 <td>Required for Revanced apps without root.</td>
 </tr>
 <tr class="even">
-<td><a href="ttps://github.com/revanced-apks/build-apps">YouTube Music Revanced Extended</a></td>
-<td>Github (j-hc)</td>
+<td><a href="https://github.com/revanced-apks/build-apps">YouTube Music Revanced Extended</a></td>
+<td>Github</td>
 <td>Regex for downloading the Extended version, arm64-v8a, by YT-Advanced.</td>
 </tr>
 <tr class="odd">
