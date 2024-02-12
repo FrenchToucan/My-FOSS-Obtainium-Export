@@ -59,19 +59,19 @@ Lawnchair team’s repo.</td>
 <td></td>
 </tr>
 <tr class="odd">
-<td><a href="https://github.com/inotia00/VancedMicroG">Vanced microG</a></td>
-<td>Github (inotia00)</td>
+<td><a href="https://github.com/WSTxda/MicroG-RE">MicroG-RE</a></td>
+<td>Github</td>
 <td>Required for Revanced apps without root.</td>
 </tr>
 <tr class="even">
-<td><a href="https://github.com/j-hc/revanced-magisk-module">YouTube Music Revanced Extended</a></td>
+<td><a href="ttps://github.com/revanced-apks/build-apps">YouTube Music Revanced Extended</a></td>
 <td>Github (j-hc)</td>
-<td>Regex for downloading the Extended version, arm64-v8a.</td>
+<td>Regex for downloading the Extended version, arm64-v8a, by YT-Advanced.</td>
 </tr>
 <tr class="odd">
-<td><a href="https://github.com/j-hc/revanced-magisk-modules">YouTube Revanced Extended</a></td>
-<td>Github (j-hc)</td>
-<td>Regex for downloading the Extended version.</td>
+<td><a href="https://github.com/revanced-apks/build-apps">YouTube Revanced Extended</a></td>
+<td>Github</td>
+<td>Regex for downloading the Extended version by YT-Advanced.</td>
 </tr>
 <tr class="even">
 <td><a href="https://github.com/recloudstream/cloudstream">CloudStream</a></td>
