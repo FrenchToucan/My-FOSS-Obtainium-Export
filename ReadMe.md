@@ -84,4 +84,25 @@ Lawnchair team’s repo.</td>
 <td>Regex for downloading release (non-f-droid) version. Currently the release notes say "APKs with the f-droid label should be ignored for now." </td>
 </tr>
 </tbody>
+  <tr class="even">
+<td><a href="https://github.com/kiwibrowser/src.next">Kiwi Browser</a></td>
+<td>Github</td>
+<td>Regex for downloading the non-dev ARM64 version</td>
+</tr>
+<tr class="odd">
+<td><a href="https://github.com/FrenchToucan/autobuild-Reddit-ReX">Reddit Revanced Extended</a></td>
+<td>Github</td>
+<td></td>
+</tr>
+<tr class="even">
+<td><a href="https://github.com/RikkaApps/Shizuku">Shizuku</a></td>
+<td>F-Droid</td>
+<td>Not using GitLab because it is providing an older version through Obtainium despite newer releases available in the Releases section.</td>
+</tr>
+<tr class="odd">
+<td><a href="https://github.com/Number869/Telemone">Telemone</td>
+<td>Github</td>
+<td>Creates themes for Telegram based on Material You.</td>
+</tr>
+</tbody>
 </table>
