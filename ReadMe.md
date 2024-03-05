@@ -1,4 +1,4 @@
-This repo contains my Obtainium export(s). The main benefit to others is that I have included the regex to download the “correct” apk so no manual intervention is required when installing for the first time or when installing updates. Just download the obaintium-export.json file, open Obaintium > Import/Export (at the botton) > Obtainium Import > select the obtainium-export.json.file.
+This repo contains my Obtainium export(s). The main benefit to others is that I have included the regex to download the “correct” apk so no manual intervention is required when installing for the first time or when installing updates. Just download the obaintium-export.json file, open Obaintium > Import/Export (at the botton) > Obtainium Import > select the obtainium-export.json file.
 
 If you want apps added, please open an issue or (better yet) do it and open a PR.
 
