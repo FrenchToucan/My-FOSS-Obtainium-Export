@@ -97,7 +97,7 @@ Lawnchair team’s repo.</td>
 <tr class="even">
 <td><a href="https://github.com/RikkaApps/Shizuku">Shizuku</a></td>
 <td>F-Droid</td>
-<td>Not using GitLab because it is providing an older version through Obtainium despite newer releases available in the Releases section.</td>
+<td>Not using GitLab because it is providing an older version through Obtainium despite newer releases being available in the Gitlab Releases section.</td>
 </tr>
 <tr class="odd">
 <td><a href="https://github.com/Number869/Telemone">Telemone</td>
