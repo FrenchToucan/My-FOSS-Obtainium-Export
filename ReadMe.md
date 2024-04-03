@@ -56,19 +56,19 @@ Lawnchair team’s repo.</td>
 <td></td>
 </tr>
 <tr class="odd">
-<td><a href="https://github.com/WSTxda/MicroG-RE">MicroG-RE</a></td>
+<td><a href="https://github.com/ReVanced/GmsCore/releases">GmsCore</a></td>
 <td>Github</td>
 <td>Required for Revanced apps without root.</td>
 </tr>
 <tr class="even">
 <td><a href="https://github.com/revanced-apks/build-apps">YouTube Music Revanced Extended</a></td>
 <td>Github</td>
-<td>Regex for downloading the Extended version, arm64-v8a, by YT-Advanced.</td>
+<td>Regex for downloading the Extended version, arm64-v8a, by Andeea.</td>
 </tr>
 <tr class="odd">
 <td><a href="https://github.com/revanced-apks/build-apps">YouTube Revanced Extended</a></td>
 <td>Github</td>
-<td>Regex for downloading the Extended version by YT-Advanced.</td>
+<td>Regex for downloading the Extended version by by Andeea.</td>
 </tr>
 <tr class="even">
 <td><a href="https://github.com/recloudstream/cloudstream">CloudStream</a></td>
@@ -78,10 +78,9 @@ Lawnchair team’s repo.</td>
 <tr class="odd">
 <td><a href="https://github.com/ImranR98/Obtainium">Obtainium</td>
 <td>Github</td>
-<td>Regex for downloading release (non-f-droid) version. Currently the release notes say "APKs with the f-droid label should be ignored for now." </td>
+<td>Regex for downloading release (non-f-droid) version. Currently the release notes say "APKs with the f-droid label should be ignored for now."</td>
 </tr>
-</tbody>
-  <tr class="even">
+<tr class="even">
 <td><a href="https://github.com/kiwibrowser/src.next">Kiwi Browser</a></td>
 <td>Github</td>
 <td>Regex for downloading the non-dev ARM64 version</td>
