@@ -63,12 +63,12 @@ Lawnchair team’s repo.</td>
 <tr class="even">
 <td><a href="https://github.com/revanced-apks/build-apps">YouTube Music Revanced Extended</a></td>
 <td>Github</td>
-<td>Regex for downloading the Extended version, arm64-v8a, by Andeea.</td>
+<td>Regex for downloading the Extended version, arm64-v8a by Andeea.</td>
 </tr>
 <tr class="odd">
 <td><a href="https://github.com/revanced-apks/build-apps">YouTube Revanced Extended</a></td>
 <td>Github</td>
-<td>Regex for downloading the Extended version by by Andeea.</td>
+<td>Regex for downloading the Extended version by Andeea.</td>
 </tr>
 <tr class="even">
 <td><a href="https://github.com/recloudstream/cloudstream">CloudStream</a></td>
