@@ -58,7 +58,7 @@ Lawnchair team’s repo.</td>
 <tr class="odd">
 <td><a href="https://github.com/ReVanced/GmsCore/releases">GmsCore</a></td>
 <td>Github</td>
-<td>Required for Revanced apps without root.</td>
+<td>Required for Revanced apps without root. Regex for downloading the GMS (not Huawei) version.</td>
 </tr>
 <tr class="even">
 <td><a href="https://github.com/revanced-apks/build-apps">YouTube Music Revanced Extended</a></td>
@@ -99,6 +99,11 @@ Lawnchair team’s repo.</td>
 <td><a href="https://github.com/Number869/Telemone">Telemone</td>
 <td>Github</td>
 <td>Creates themes for Telegram based on Material You.</td>
+</tr>
+<tr class="even">
+<td><a href="https://github.com/toasterofbread/spmp">Spmp</a></td>
+<td>Github</td>
+<td></td>
 </tr>
 </tbody>
 </table>
