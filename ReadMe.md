@@ -104,7 +104,7 @@ Lawnchair team’s repo.</td>
 <td><a href="https://github.com/toasterofbread/spmp">Spmp</a></td>
 <td>Github</td>
 <td></td>
-tr class="odd">
+<tr class="odd">
 <td><a href="https://telegram.org/">Telegram</a></td>
 <td>Telegram.org</td>
 <td></td>
