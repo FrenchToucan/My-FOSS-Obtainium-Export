@@ -88,7 +88,7 @@ Lawnchair team’s repo.</td>
 <tr class="odd">
 <td><a href="https://github.com/revanced-apks">Reddit Revanced Extended</a></td>
 <td>Github</td>
-<td>Regex for downloading the extended version.</td>
+<td>Regex for downloading the Extended version.</td>
 </tr>
 <tr class="even">
 <td><a href="https://github.com/RikkaApps/Shizuku">Shizuku</a></td>
