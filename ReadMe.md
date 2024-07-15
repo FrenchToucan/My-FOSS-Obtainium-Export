@@ -41,9 +41,9 @@ If you want apps added, please open an issue or (better yet) do it and open a PR
 Lawnchair team’s repo.</td>
 </tr>
 <tr class="even">
-<td><a href="https://github.com/foobnix/LibreraReader">Librera</a></td>
+<td><a href="https://github.com/Delta-Icons/BreezyWeatherIcons">Delta Icon Pack for Breezy Weather</a></td>
 <td>Github</td>
-<td>Regex for downloading f-droid, arm64 version. </td>
+<td> </td>
 </tr>
 <tr class="odd">
 <td><a href="https://f-droid.org/packages/me.zhanghai.android.files">Material Files</a></td>
@@ -73,12 +73,12 @@ Lawnchair team’s repo.</td>
 <tr class="even">
 <td><a href="https://github.com/recloudstream/cloudstream">CloudStream</a></td>
 <td>Github</td>
-<td>No pre-releases.</td>
+<td>Pre-releases</td>
 </tr>
 <tr class="odd">
 <td><a href="https://github.com/ImranR98/Obtainium">Obtainium</td>
 <td>Github</td>
-<td>Regex for downloading release (non-f-droid) version. Currently the release notes say "APKs with the f-droid label should be ignored for now."</td>
+<td>Regex for downloading release (non-f-droid) version."</td>
 </tr>
 <tr class="even">
 <td><a href="https://github.com/kiwibrowser/src.next">Kiwi Browser</a></td>
@@ -86,9 +86,9 @@ Lawnchair team’s repo.</td>
 <td>Regex for downloading the non-dev ARM64 version</td>
 </tr>
 <tr class="odd">
-<td><a href="https://github.com/FrenchToucan/autobuild-Reddit-ReX">Reddit Revanced Extended</a></td>
+<td><a href="https://github.com/revanced-apks">Reddit Revanced Extended</a></td>
 <td>Github</td>
-<td></td>
+<td>Regex for downloading the extended version.</td>
 </tr>
 <tr class="even">
 <td><a href="https://github.com/RikkaApps/Shizuku">Shizuku</a></td>
@@ -103,6 +103,10 @@ Lawnchair team’s repo.</td>
 <tr class="even">
 <td><a href="https://github.com/toasterofbread/spmp">Spmp</a></td>
 <td>Github</td>
+<td></td>
+tr class="odd">
+<td><a href="https://telegram.org/">Telegram</a></td>
+<td>Telegram.org</td>
 <td></td>
 </tr>
 </tbody>
