@@ -7,6 +7,8 @@ This repo contains my ever-evolving Obtainium export.
 5. (Optional) Go to **Settings** and add your GitHub Personal Access Token in the **Source-Specific** section. Otherwise you'll be rate limited pretty much immediately.
 7. After installing and enabling Shizuku, go to **Settings** and select **Use Shiuku or Sui to install**.
 
+## App List
+
 | App                                | Source                                                   | Description                                           | Download Notes                                                                                       |
 |:-----------------------------------|:---------------------------------------------------------|:------------------------------------------------------|:-----------------------------------------------------------------------------------------------------|
 | [Aegis](https://github.com/beemdevelopment/Aegis)          | Github                                                    | 2-step verification token manager                     |                                                                                                      |
