@@ -1,11 +1,12 @@
 This repo contains my ever-evolving Obtainium export.
 
-1. Open Obtainium.
-2. Go to **Import/Export** (at the bottom).
-3. Select **Obtainium Import**.
-4. Choose the `obtainium-export.json` file.
-5. (Optional) Go to **Settings** and add your GitHub Personal Access Token in the **Source-Specific** section. Otherwise you'll be rate limited pretty much immediately.
-7. After installing and enabling Shizuku, go to **Settings** and select **Use Shiuku or Sui to install**.
+1. Download and extract source code from most recent release.
+2. Open Obtainium.
+3. Go to **Import/Export** (at the bottom).
+4. Select **Obtainium Import**.
+5. Choose the `obtainium-export.json` file.
+6. (Recommended) Go to **Settings** and add your GitHub Personal Access Token in the **Source-Specific** section. Otherwise you'll be rate limited pretty much immediately.
+7. (Recommended) After installing and enabling Shizuku, go to **Settings** and select **Use Shiuku or Sui to install**.
 
 ## App List
 | App Name                               | Source                                                             | Description                                           | Download Notes                                                                                                           |
