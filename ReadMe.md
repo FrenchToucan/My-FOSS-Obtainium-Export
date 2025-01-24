@@ -8,9 +8,6 @@ This repo contains my ever-evolving Obtainium export.
 7. After installing and enabling Shizuku, go to **Settings** and select **Use Shiuku or Sui to install**.
 
 ## App List
-
-|App|Source|Description|Download Notes|
-|:---|:---|:---|:---|
 | App Name                               | Source                                                             | Description                                           | Download Notes                                                                                                           |
 | -------------------------------------- | ------------------------------------------------------------------ | ----------------------------------------------------- | ------------------------------------------------------------------------------------------------------------------------ |
 | **Aegis**                              | [GitHub](https://github.com/beemdevelopment/Aegis)                 | 2-step verification token manager                     |                                                                                                                          |
