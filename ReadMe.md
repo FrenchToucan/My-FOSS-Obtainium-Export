@@ -9,39 +9,39 @@ This repo contains my ever-evolving Obtainium export.
 7. (Recommended) After installing and enabling Shizuku, go to **Settings** and select **Use Shiuku or Sui to install**.
 
 ## App List
-| App Name                               | Source                                                             | Description                                           | Download Notes                                                                                                           |
-| -------------------------------------- | ------------------------------------------------------------------ | ----------------------------------------------------- | ------------------------------------------------------------------------------------------------------------------------ |
-| **Aegis**                              | [GitHub](https://github.com/beemdevelopment/Aegis)                 | 2-step verification token manager                     |                                                                                                                          |
-| **AntennaPod**                         | [GitHub](https://github.com/AntennaPod/AntennaPod)                 | Podcast manager                                       |                                                                                                                          |
-| **aShell You**                         | [GitHub](https://github.com/lionzxy/aShell)                        | ADB shell (can use Shizuku)                           |                                                                                                                          |
-| **Arcticons**                          | [GitHub](https://github.com/Donnnno/Arcticons)                     | Icon pack                                             | Regex for normal release (Material You with "Tint with accent color" in Lawnchair).                                      |
-| **Aurora Store**                       | [GitLab](https://gitlab.com/AuroraOSS/AuroraStore)                 | Replacement for Play Store (can use Shizuku)          | Regex for downloading the Gitlab release from Gitlab, not the auroraoss version also linked in the Gitlab release notes. |
-| **Bitwarden**                          | [GitHub](https://github.com/bitwarden/mobile)                      | Password manager                                      | Regex for downloading the F-Droid version.                                                                               |
-| **Breezy Weather**                     | [GitHub](https://github.com/MatthewZMD/BreezyWeather)              | Weather app with widgets                              |                                                                                                                          |
-| **CloudStream**                        | [GitHub](https://github.com/LagradOst/CloudStream-3)               | Watch any movie/TV show streamer                      | Pre-releases                                                                                                             |
-| **DAVx⁵**                              | [GitLab](https://gitlab.com/bitfireAT/davx5-ose)                   | CalDAV/CardDAV synchronization app                    |                                                                                                                          |
-| **Delta Icon Pack for Breezy Weather** | [GitHub](https://github.com/MatthewZMD/Delta)                      | Icon pack for weather widget                          |                                                                                                                          |
-| **Delta Icons**                        | [GitHub](https://github.com/Delta-Icons/android)                   | Icon pack                                             | Regex for downloading the FOSS version. No pre-releases.                                                                 |
-| **Fennec**                             | [F-Droid](https://f-droid.org/packages/org.mozilla.fennec_fdroid/) | Browser                                               | Regex for downloading the 0020 version.                                                                                  |
-| **Heliboard**                          | [GitHub](https://github.com/GboardThemes/Heliboard)                | Swipe typing keyboard                                 | Regex for full Android (non-Auto) release. See entry for library download link.                                          |
-| **Home Assistant**                     | [GitHub](https://github.com/home-assistant/android)                | Home automation platform                              | Regex for full release.                                                                                                  |
-| **Immich**                             | [GitHub](https://github.com/immich-app/immich)                     | Photo and video backup solution                       |                                                                                                                          |
-| **jtx Board**                          | [GitHub](https://github.com/jtxBoard/jtxBoard)                     | Tasks and notes                                       |                                                                                                                          |
-| **Keyguard**                           | [GitHub](https://github.com/bitwarden/mobile)                      | Alternative Bitwarden client                          |                                                                                                                          |
-| **Lawnchair**                          | [GitHub](https://github.com/Goooler/LawnchairRelease)              | Launcher. Gooler's repo, not Lawnchair team.          |                                                                                                                          |
-| **Lissen**                             | [GitHub](https://github.com/JonnyBurger/lissen)                    | Alternative Audiobookshelf client                     |                                                                                                                          |
-| **Material Files**                     | [F-Droid](https://f-droid.org/packages/me.zhanghai.android.files/) | File manager                                          | F-Droid build doesn’t have trackers.                                                                                     |
-| **MicroG-RE**                          | [GitHub](https://github.com/microg/GmsCore)                        | MicroG/GmsCore for non-root YT ReVanced               | Regex for downloading the GMS (not Huawei) version.                                                                      |
-| **Obtainium**                          | [GitHub](https://github.com/ImranR98/Obtainium)                    | Package downloader (can use Shizuku)                  | Regex for downloading release (non-F-Droid) version.                                                                     |
-| **Pano Scrobbler**                     | [GitHub](https://github.com/kawaiiDango/PanoScrobbler)             | Scrobble any app                                      |                                                                                                                          |
-| **Private DNS Quick Toggle**           | [GitHub](https://github.com/adinatrapani/Private-DNS-Quick-Toggle) | Quick Settings tile for private DNS (can use Shizuku) |                                                                                                                          |
-| **Reddit ReVanced Extended**           | [GitHub](https://github.com/inotia00/ReVanced_Extended)            | Reddit app                                            | Regex for downloading the Extended version.                                                                              |
-| **Shelter**                            | [F-Droid](https://f-droid.org/packages/net.typeblog.shelter/)      | Work profile manager                                  |                                                                                                                          |
-| **Shizuku**                            | [GitHub](https://github.com/RikkaApps/Shizuku)                     | Elevated access provider                              |                                                                                                                          |
-| **Tailscale**                          | [GitHub](https://github.com/tailscale/tailscale)                   | Secure network access                                 |                                                                                                                          |
-| **Telegram**                           | [Official Site](https://telegram.org/)                             | Telegram client                                       |                                                                                                                          |
-| **Telemone**                           | [GitHub](https://github.com/ananpay/tilemone)                      | Telegram themer                                       |                                                                                                                          |
-| **Tempo**                              | [GitHub](https://github.com/CappielloAntonio/tempo)                | Open-source and lightweight music client for Subsonic | Regex for downloading the release, not debug, version.                                                                   |
-| **Thunderbird**                        | [GitHub](https://github.com/thundermail/thunderbird)               | Email client                                          |                                                                                                                          |
-| **YouTube Music ReVanced Extended**    | [GitHub](https://github.com/MANCrimSon/YouTube-ReVanced-Extended)  | YouTube Music client w/ patches by anddea             | Regex for downloading correct file.                                                                                      |
-| **YouTube ReVanced Extended**          | [GitHub](https://github.com/thunderkex/revanced-extended)          | YouTube client w/ patches by inotiaa00                | Regex for downloading correct file.                                                                                      |
+-   🔐 **2FA**: [Aegis](https://github.com/beemdevelopment/Aegis) – 2-step verification token manager
+-   🎙️ **Podcasts**: [AntennaPod](https://github.com/AntennaPod/AntennaPod) – Podcast manager
+-   📱 **ADB Shell**: [aShell You](https://github.com/lionzxy/aShell) – ADB shell (can use Shizuku)
+-   🎨 **Icon Pack**: [Arcticons](https://github.com/Donnnno/Arcticons) – Icon pack
+-   🛍️ **Play Store**: [Aurora Store](https://gitlab.com/AuroraOSS/AuroraStore) – Replacement for Play Store (can use Shizuku)
+-   🔑 **Password Manager**: [Bitwarden](https://github.com/bitwarden/mobile) – Password manager
+-   🌦️ **Weather**: [Breezy Weather](https://github.com/MatthewZMD/BreezyWeather) – Weather app with widgets
+-   🎥 **Streaming**: [CloudStream](https://github.com/LagradOst/CloudStream-3) – Watch any movie/TV show streamer
+-   📅 **CalDAV/CardDAV/WebDAV Sync**: [DAVx⁵](https://gitlab.com/bitfireAT/davx5-ose) – CalDAV/CardDAV synchronization app
+-   🎨 **Weather Icon Pack**: [Delta Icon Pack for Breezy Weather](https://github.com/MatthewZMD/Delta) – Icon pack for weather widget
+-   🎨 **Icon Pack**: [Delta Icons](https://github.com/Delta-Icons/android) – Icon pack
+-   🌍 **Browser**: [Fennec](https://f-droid.org/packages/org.mozilla.fennec_fdroid/) – Privacy-focused browser
+-   ⌨️ **Keyboard**: [Heliboard](https://github.com/GboardThemes/Heliboard) – Swipe typing keyboard
+-   🏠 **Smart Home**: [Home Assistant](https://github.com/home-assistant/android) – Home automation platform
+-   📸 **Photos**: [Immich](https://github.com/immich-app/immich) – Photo and video backup solution
+-   📝 **Notes & Tasks**: [jtx Board](https://github.com/jtxBoard/jtxBoard) – Tasks and notes manager
+-   🔐 **Password Manager**: [Keyguard](https://github.com/bitwarden/mobile) – Alternative Bitwarden client
+-   🚀 **Launcher**: [Lawnchair](https://github.com/Goooler/LawnchairRelease) – Custom Android launcher
+-   🎧 **Audiobooks**: [Lissen](https://github.com/JonnyBurger/lissen) – Alternative Audiobookshelf client
+-   📁 **File Manager**: [Material Files](https://f-droid.org/packages/me.zhanghai.android.files/) – Open-source file manager
+-   📱 **MicroG**: [MicroG-RE](https://github.com/microg/GmsCore) – MicroG/GmsCore for non-root YT ReVanced
+-   📦 **FOSS Package Manager**: [Obtainium](https://github.com/ImranR98/Obtainium) – Package downloader (can use Shizuku)
+-   🎵 **Scrobbling**: [Pano Scrobbler](https://github.com/kawaiiDango/PanoScrobbler) – Scrobble any app
+-   🔒 **Private DNS Tile**: [Private DNS Quick Toggle](https://github.com/adinatrapani/Private-DNS-Quick-Toggle) – Quick Settings tile for private DNS (can use Shizuku)
+-   👾 **Reddit Client**: [Reddit ReVanced Extended](https://github.com/inotia00/ReVanced_Extended) – Alternative Reddit app
+-   🏢 **Work Profile**: [Shelter](https://f-droid.org/packages/net.typeblog.shelter/) – Work profile manager
+-   ⚙️ **Elevated Access**: [Shizuku](https://github.com/RikkaApps/Shizuku) – Elevated access provider
+-   🔗 **Networking**: [Tailscale](https://github.com/tailscale/tailscale) – Secure network access
+-   💬 **Messaging**: [Telegram](https://telegram.org/) – Telegram client
+-   🎨 **Theming**: [Telemone](https://github.com/ananpay/tilemone) – Telegram themer
+-   🎵 **Music**: [Tempo](https://github.com/CappielloAntonio/tempo) – Open-source music client for Subsonic
+-   📧 **Email**: [Thunderbird](https://github.com/thundermail/thunderbird) – Open-source email client
+-   🗂️ **Cloud Storage**: [Nextcloud](https://github.com/nextcloud/android) – Self-hosted cloud file sync & collaboration
+-   🎥 **Media Player**: [VLC](https://github.com/videolan/vlc-android) – Open-source media player
+-   🎵 **YouTube Music**: [YouTube Music ReVanced Extended](https://github.com/MANCrimSon/YouTube-ReVanced-Extended) – YouTube Music client w/ patches
+-   📺 **YouTube**: [YouTube ReVanced Extended](https://github.com/MANCrimSon/YouTube-ReVanced-Extended) – YouTube client w/ patches
