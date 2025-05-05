@@ -29,7 +29,7 @@ This repo contains my ever-evolving Obtainium export.
 -   🚀 **Launcher**: [Lawnchair](https://github.com/Goooler/LawnchairRelease) – Launcher
 -   🎧 **Audiobooks**: [Lissen](https://github.com/JonnyBurger/lissen) – Alternative Audiobookshelf client
 -   📁 **File Manager**: [Material Files](https://f-droid.org/packages/me.zhanghai.android.files/) – File manager
--   📱 **MicroG**: [MicroG-RE](https://github.com/microg/GmsCore) – MicroG/GmsCore for non-root YT ReVanced
+-   📱 **GmsCore**: [MicroG](https://github.com/microg/GmsCore) – GmsCore from the microG team (two packages, root no longer required for full experience) | [MicroG-RE](https://github.com/WSTxda/MicroG-RE) – Stripped down microG GmsCore specifically for Youtube ReVanced users (not necessary if you have full microG GmsCore instealled)
 -   📦 **FOSS Package Manager**: [Obtainium](https://github.com/ImranR98/Obtainium) – Package downloader
 -   🎵 **Scrobbling**: [Pano Scrobbler](https://github.com/kawaiiDango/PanoScrobbler) – Scrobbler
 -   🔒 **Private DNS Tile**: [Private DNS Quick Toggle](https://github.com/adinatrapani/Private-DNS-Quick-Toggle) – Quick Settings tile for private DNS
@@ -37,7 +37,7 @@ This repo contains my ever-evolving Obtainium export.
 -   🏢 **Work Profile**: [Shelter](https://f-droid.org/packages/net.typeblog.shelter/) – Work profile manager
 -   ⚙️ **Elevated Access**: [Shizuku](https://github.com/RikkaApps/Shizuku) – Elevated access provider
 -   🔗 **Networking**: [Tailscale](https://github.com/tailscale/tailscale) – Secure network access
--   💬 **Messaging**: [Telegram](https://telegram.org/) – Telegram client
+-   💬 **Messaging**: [Telegram](https://telegram.org/) – Official Telegram client | [Cherrygram](https://github.com/arsLan4k1390/Cherrygram) - Unofficial Telegram client with additional features (includes FCM for push notificiations)
 -   🎨 **Theming**: [Telemone](https://github.com/ananpay/tilemone) – Telegram themer
 -   🎵 **Music**: [Tempo](https://github.com/CappielloAntonio/tempo) – Music app (requires Subsonic instance)
 -   📧 **Email**: [Thunderbird](https://github.com/thundermail/thunderbird) – Email client
