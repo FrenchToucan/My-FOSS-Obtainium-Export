@@ -45,14 +45,13 @@ Enjoy your FOSS app journey!
 -   🔐 **2FA**: [Aegis](https://github.com/beemdevelopment/Aegis) – 2-step verification token manager
 -   🎙️ **Podcasts**: [AntennaPod](https://github.com/AntennaPod/AntennaPod) – Podcast manager
 -   📱 **ADB Shell**: [aShell You](https://github.com/lionzxy/aShell) – ADB shell
--   🎨 **Icon Pack**: [Arcticons](https://github.com/Donnnno/Arcticons) – Icon pack
+-   🎨 **Icon Packs**: [Delta Icons](https://github.com/Delta-Icons/android) | [Arcticons](https://github.com/Donnnno/Arcticons)
 -   🛍️ **Play Store**: [Aurora Store](https://gitlab.com/AuroraOSS/AuroraStore) – Replacement for Play Store
 -   🔑 **Password Manager**: [Bitwarden](https://github.com/bitwarden/mobile) – Password manager
 -   🌦️ **Weather**: [Breezy Weather](https://github.com/MatthewZMD/BreezyWeather) – Weather app with widgets
 -   🎥 **Streaming**: [CloudStream](https://github.com/LagradOst/CloudStream-3) – Movie/TV show streamer
--   📅 **CalDAV/CardDAV/WebDAV Sync**: [DAVx⁵](https://gitlab.com/bitfireAT/davx5-ose) – CalDAV/CardDAV synchronization
+-   📅 **Sync**: [DAVx⁵](https://gitlab.com/bitfireAT/davx5-ose) – CalDAV/CardDAV/WebDAV synchronization
 -   🎨 **Weather Icon Pack**: [Delta Icon Pack for Breezy Weather](https://github.com/MatthewZMD/Delta) – Icon pack for Breezy Weather
--   🎨 **Icon Pack**: [Delta Icons](https://github.com/Delta-Icons/android) – Icon pack
 -   🌍 **Browser**: [Fennec](https://f-droid.org/packages/org.mozilla.fennec_fdroid/) – Internet browser
 -   ⌨️ **Keyboard**: [Heliboard](https://github.com/GboardThemes/Heliboard) – Swipe typing keyboard
 -   🏠 **Smart Home**: [Home Assistant](https://github.com/home-assistant/android) – Home automation (requires Home Assistant instance)
@@ -70,8 +69,8 @@ Enjoy your FOSS app journey!
 -   🏢 **Work Profile**: [Shelter](https://f-droid.org/packages/net.typeblog.shelter/) – Work profile manager
 -   ⚙️ **Elevated Access**: [Shizuku](https://github.com/RikkaApps/Shizuku) – Elevated access provider
 -   🔗 **Networking**: [Tailscale](https://github.com/tailscale/tailscale) – Secure network access
--   💬 **Messaging**: [Telegram](https://telegram.org/) – Official Telegram client | [Cherrygram](https://github.com/arsLan4k1390/Cherrygram) - Unofficial Telegram client with additional features (includes FCM for push notificiations)
--   🎨 **Theming**: [Telemone](https://github.com/ananpay/tilemone) – Telegram themer
+-   💬 **Telegram**: [Telegram](https://telegram.org/) – Official client | [Cherrygram](https://github.com/arsLan4k1390/Cherrygram) - Unofficial Telegram client with additional features (includes FCM for push notificiations)
+-   🎨 **Theming**: [Telemone](https://github.com/ananpay/tilemone) – Telegram themer (not necessary for Cherrygram)
 -   🎵 **Music**: [Tempo](https://github.com/CappielloAntonio/tempo) – Music app (requires Subsonic instance)
 -   📧 **Email**: [Thunderbird](https://github.com/thundermail/thunderbird) – Email client
 -   🗂️ **Cloud Storage**: [Nextcloud](https://github.com/nextcloud/android) – Cloud file sync & collaboration (requires Nextcloud instance)
