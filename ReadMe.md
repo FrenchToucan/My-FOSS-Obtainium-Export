@@ -42,30 +42,30 @@ Semi-automatic Method
 Enjoy your FOSS app journey!
 
 ## App List
--   🔐 **2FA**: [Aegis](https://github.com/beemdevelopment/Aegis) – 2-step verification token manager
--   🎙️ **Podcasts**: [AntennaPod](https://github.com/AntennaPod/AntennaPod) – Podcast manager
--   📱 **ADB Shell**: [aShell You](https://github.com/lionzxy/aShell) – ADB shell
+-   🔐 **2FA**: [Aegis](https://github.com/beemdevelopment/Aegis)
+-   🎙️ **Podcasts**: [AntennaPod](https://github.com/AntennaPod/AntennaPod)
+-   📱 **ADB Shell**: [aShell You](https://github.com/lionzxy/aShell)
 -   🎨 **Icon Pack**: [Delta Icons](https://github.com/Delta-Icons/android) | [Arcticons](https://github.com/Donnnno/Arcticons)
+-   🎨 **Weather Icon Pack**: [Delta Icon Pack for Breezy Weather](https://github.com/MatthewZMD/Delta)
 -   🛍️ **Play Store**: [Aurora Store](https://gitlab.com/AuroraOSS/AuroraStore) – Replacement for Play Store
 -   🔑 **Password Manager (Bitwarden)**: [Bitwarden](https://github.com/bitwarden/mobile) – Official client | [Keyguard](https://github.com/AChep/keyguard-app) – Alternative Bitwarden client
 -   🌦️ **Weather**: [Breezy Weather](https://github.com/MatthewZMD/BreezyWeather) – Weather app with widgets
 -   🎥 **Streaming**: [CloudStream](https://github.com/LagradOst/CloudStream-3) – Movie/TV show streamer
 -   📅 **Sync**: [DAVx⁵](https://gitlab.com/bitfireAT/davx5-ose) – CalDAV/CardDAV/WebDAV synchronization
--   🎨 **Weather Icon Pack**: [Delta Icon Pack for Breezy Weather](https://github.com/MatthewZMD/Delta) – Icon pack for Breezy Weather
--   🌍 **Browser**: [Fennec](https://f-droid.org/packages/org.mozilla.fennec_fdroid/) – Internet browser
+-   🌍 **Browser**: [Fennec](https://f-droid.org/packages/org.mozilla.fennec_fdroid/)
 -   ⌨️ **Keyboard**: [Heliboard](https://github.com/GboardThemes/Heliboard) – Swipe typing keyboard
 -   🏠 **Smart Home**: [Home Assistant](https://github.com/home-assistant/android) – Home automation (requires Home Assistant instance)
--   📸 **Photos**: [Immich](https://github.com/immich-app/immich) – Photo and video backup (requires Immich instance)
--   📝 **Notes & Tasks**: [jtx Board](https://github.com/jtxBoard/jtxBoard) – Tasks and notes manager
+-   📸 **Photos**: [Immich](https://github.com/immich-app/immich) – Google Photos clone (sort of) (requires Immich instance)
+-   📝 **Notes & Tasks**: [jtx Board](https://github.com/jtxBoard/jtxBoard)
 -   🚀 **Launcher**: [Lawnchair](https://github.com/Goooler/LawnchairRelease) – Lawnchair signed builds
--   🎧 **Audiobooks**: [Lissen](https://github.com/JonnyBurger/lissen) – Alternative Audiobookshelf client
--   📁 **File Manager**: [Material Files](https://f-droid.org/packages/me.zhanghai.android.files/) – File manager
+-   🎧 **Audiobooks**: [Lissen](https://github.com/JonnyBurger/lissen) – Alternative Audiobookshelf client (requires Audiobookshelf instance)
+-   📁 **File Manager**: [Material Files](https://f-droid.org/packages/me.zhanghai.android.files/)
 -   📱 **GmsCore**: [MicroG](https://github.com/microg/GmsCore) – GmsCore from the microG team (two packages, root no longer required for full experience) | [MicroG-RE](https://github.com/WSTxda/MicroG-RE) – Stripped down microG GmsCore specifically for Youtube ReVanced users (not necessary if you have full microG GmsCore instealled)
--   📦 **FOSS Package Manager**: [Obtainium](https://github.com/ImranR98/Obtainium) – Package downloader
--   🎵 **Scrobbling**: [Pano Scrobbler](https://github.com/kawaiiDango/PanoScrobbler) – Scrobbler
+-   📦 **FOSS Package Manager**: [Obtainium](https://github.com/ImranR98/Obtainium) – Download apks from Github and other services
+-   🎵 **Scrobbling**: [Pano Scrobbler](https://github.com/kawaiiDango/PanoScrobbler)
 -   🔒 **Private DNS Tile**: [Private DNS Quick Toggle](https://github.com/adinatrapani/Private-DNS-Quick-Toggle) – Quick Settings tile for private DNS
 -   ☕ **Keep Awake Tile**: [Coffee](https://github.com/mueller-ma/Coffee) – Quick Settings tile to keep the screen awake
--   👾 **Reddit Client**: [Reddit ReVanced Extended](https://github.com/inotia00/ReVanced_Extended) – Better Reddit client
+-   👾 **Reddit Client**: [Reddit ReVanced Extended](https://github.com/inotia00/ReVanced_Extended) – Better version of the Reddit client
 -   🏢 **Work Profile**: [Shelter](https://f-droid.org/packages/net.typeblog.shelter/) – Work profile manager
 -   ⚙️ **Elevated Access**: [Shizuku](https://github.com/RikkaApps/Shizuku) – Elevated access provider
 -   🔗 **Networking**: [Tailscale](https://github.com/tailscale/tailscale) – Secure network access
@@ -74,6 +74,6 @@ Enjoy your FOSS app journey!
 -   🎵 **Music**: [Tempo](https://github.com/CappielloAntonio/tempo) – Music app (requires Subsonic instance)
 -   📧 **Email**: [Thunderbird](https://github.com/thundermail/thunderbird) – Email client
 -   🗂️ **Cloud Storage**: [Nextcloud](https://github.com/nextcloud/android) – Cloud file sync & collaboration (requires Nextcloud instance)
--   🎥 **Media Player**: [VLC](https://github.com/videolan/vlc-android) – Media player
--   🎵 **YouTube Music**: [YouTube Music ReVanced Extended](https://github.com/MANCrimSon/YouTube-ReVanced-Extended) – Better YouTube Music client
--   📺 **YouTube**: [YouTube ReVanced Extended](https://github.com/MANCrimSon/YouTube-ReVanced-Extended) – Better YouTube client
+-   🎥 **Media Player**: [VLC](https://github.com/videolan/vlc-android)
+-   🎵 **YouTube Music**: [YouTube Music ReVanced Extended](https://github.com/MANCrimSon/YouTube-ReVanced-Extended) – Better version of the YouTube Music client
+-   📺 **YouTube**: [YouTube ReVanced Extended](https://github.com/MANCrimSon/YouTube-ReVanced-Extended) – Better version of the YouTube client
