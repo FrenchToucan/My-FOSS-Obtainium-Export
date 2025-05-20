@@ -47,7 +47,7 @@ Enjoy your FOSS app journey!
 -   📱 **ADB Shell**: [aShell You](https://github.com/lionzxy/aShell) – ADB shell
 -   🎨 **Icon Pack**: [Delta Icons](https://github.com/Delta-Icons/android) | [Arcticons](https://github.com/Donnnno/Arcticons)
 -   🛍️ **Play Store**: [Aurora Store](https://gitlab.com/AuroraOSS/AuroraStore) – Replacement for Play Store
--   🔑 **Password Manager (Bitwarden)**: [Bitwarden](https://github.com/bitwarden/mobile) – Official client | - [Keyguard](https://github.com/AChep/keyguard-app) – Alternative Bitwarden client
+-   🔑 **Password Manager (Bitwarden)**: [Bitwarden](https://github.com/bitwarden/mobile) – Official client | [Keyguard](https://github.com/AChep/keyguard-app) – Alternative Bitwarden client
 -   🌦️ **Weather**: [Breezy Weather](https://github.com/MatthewZMD/BreezyWeather) – Weather app with widgets
 -   🎥 **Streaming**: [CloudStream](https://github.com/LagradOst/CloudStream-3) – Movie/TV show streamer
 -   📅 **Sync**: [DAVx⁵](https://gitlab.com/bitfireAT/davx5-ose) – CalDAV/CardDAV/WebDAV synchronization
