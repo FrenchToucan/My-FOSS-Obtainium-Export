@@ -1,5 +1,9 @@
 This repo contains my ever-evolving Obtainium export.
 
+
+#### Steps
+
+Manual Method
 1. Download and extract source code from most recent release.
 2. Open Obtainium.
 3. Go to **Import/Export** (at the bottom).
@@ -7,6 +11,35 @@ This repo contains my ever-evolving Obtainium export.
 5. Choose the `obtainium-export.json` file.
 6. (Recommended) Go to **Settings** and add your GitHub Personal Access Token in the **Source-Specific** section. Otherwise you'll be rate limited pretty much immediately.
 7. (Recommended) After installing and enabling Shizuku, go to **Settings** and select **Use Shiuku or Sui to install**.
+
+Semi-automatic Method
+1. **Connect your Android device** (with USB debugging enabled).
+2. **Save the script** above as `install_obtainium_and_import.sh`.
+3. In your terminal, run:
+   ```bash
+   chmod +x install_obtainium_and_import.sh
+   ./install_obtainium_and_import.sh
+   ```
+4. **On your device**, open Obtainium, go to its import feature, and select `obtainium_export.json` from your Downloads folder.
+
+---
+
+## 📦 About
+
+- The latest export is always available in this repository as a `.json` file.
+- You can use the script above any time you want to update your Obtainium sources with the latest export.
+
+---
+
+## 💡 Tips
+
+- For privacy, review the export file before importing.
+- The script can be re-run whenever there’s a new export.
+- For help, see [Obtainium’s documentation](https://github.com/ImranR98/Obtainium).
+
+---
+
+Enjoy your FOSS app journey!
 
 ## App List
 -   🔐 **2FA**: [Aegis](https://github.com/beemdevelopment/Aegis) – 2-step verification token manager
