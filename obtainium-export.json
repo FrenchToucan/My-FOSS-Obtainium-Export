@@ -11,7 +11,7 @@
             "otherAssetUrls": "[[\"com.android.vending-84022614-hw.apk\",\"https://api.github.com/repos/microg/GmsCore/releases/assets/249262375\"],[\"com.android.vending-84022614-hw.apk.asc\",\"https://github.com/microg/GmsCore/releases/download/v0.3.7.250932/com.android.vending-84022614-hw.apk.asc\"],[\"com.android.vending-84022614.apk\",\"https://api.github.com/repos/microg/GmsCore/releases/assets/249262645\"],[\"com.android.vending-84022614.apk.asc\",\"https://github.com/microg/GmsCore/releases/download/v0.3.7.250932/com.android.vending-84022614.apk.asc\"],[\"com.google.android.gms-250932014-hw.apk\",\"https://api.github.com/repos/microg/GmsCore/releases/assets/249262763\"],[\"com.google.android.gms-250932014-hw.apk.asc\",\"https://github.com/microg/GmsCore/releases/download/v0.3.7.250932/com.google.android.gms-250932014-hw.apk.asc\"],[\"com.google.android.gms-250932014.apk.asc\",\"https://github.com/microg/GmsCore/releases/download/v0.3.7.250932/com.google.android.gms-250932014.apk.asc\"],[\"org.microg.gms-250932014-user.apk\",\"https://api.github.com/repos/microg/GmsCore/releases/assets/249357785\"],[\"org.microg.gms-250932014-user.apk.asc\",\"https://github.com/microg/GmsCore/releases/download/v0.3.7.250932/org.microg.gms-250932014-user.apk.asc\"],[\"v0.3.7.250932.tar.gz\",\"https://api.github.com/repos/microg/GmsCore/tarball/v0.3.7.250932\"],[\"v0.3.7.250932.zip\",\"https://api.github.com/repos/microg/GmsCore/zipball/v0.3.7.250932\"]]",
             "preferredApkIndex": 0,
             "additionalSettings": "{\"includePrereleases\":false,\"fallbackToOlderReleases\":true,\"filterReleaseTitlesByRegEx\":\"\",\"filterReleaseNotesByRegEx\":\"\",\"verifyLatestTag\":false,\"sortMethodChoice\":\"date\",\"useLatestAssetDateAsReleaseDate\":false,\"releaseTitleAsVersion\":false,\"trackOnly\":false,\"versionExtractionRegEx\":\"\",\"matchGroupToUse\":\"\",\"versionDetection\":false,\"releaseDateAsVersion\":false,\"useVersionCodeAsOSVersion\":false,\"apkFilterRegEx\":\"com\\\\.google\\\\.android\\\\.gms-[0-9]+\\\\.apk\",\"invertAPKFilter\":false,\"autoApkFilterByArch\":true,\"appName\":\"microG - Play Services\",\"appAuthor\":\"\",\"shizukuPretendToBeGooglePlay\":false,\"allowInsecure\":false,\"exemptFromBackgroundUpdates\":false,\"skipUpdateNotifications\":false,\"about\":\"\",\"refreshBeforeDownload\":false,\"dontSortReleasesList\":false}",
-            "lastUpdateCheck": 1746911635792725,
+            "lastUpdateCheck": 1748462844955733,
             "pinned": false,
             "categories": [
                 "Core Functionality"
@@ -32,7 +32,7 @@
             "otherAssetUrls": "[[\"com.android.vending-84022614-hw.apk\",\"https://api.github.com/repos/microg/GmsCore/releases/assets/249262375\"],[\"com.android.vending-84022614-hw.apk.asc\",\"https://github.com/microg/GmsCore/releases/download/v0.3.7.250932/com.android.vending-84022614-hw.apk.asc\"],[\"com.android.vending-84022614.apk.asc\",\"https://github.com/microg/GmsCore/releases/download/v0.3.7.250932/com.android.vending-84022614.apk.asc\"],[\"com.google.android.gms-250932014-hw.apk\",\"https://api.github.com/repos/microg/GmsCore/releases/assets/249262763\"],[\"com.google.android.gms-250932014-hw.apk.asc\",\"https://github.com/microg/GmsCore/releases/download/v0.3.7.250932/com.google.android.gms-250932014-hw.apk.asc\"],[\"com.google.android.gms-250932014.apk\",\"https://api.github.com/repos/microg/GmsCore/releases/assets/249356661\"],[\"com.google.android.gms-250932014.apk.asc\",\"https://github.com/microg/GmsCore/releases/download/v0.3.7.250932/com.google.android.gms-250932014.apk.asc\"],[\"org.microg.gms-250932014-user.apk\",\"https://api.github.com/repos/microg/GmsCore/releases/assets/249357785\"],[\"org.microg.gms-250932014-user.apk.asc\",\"https://github.com/microg/GmsCore/releases/download/v0.3.7.250932/org.microg.gms-250932014-user.apk.asc\"],[\"v0.3.7.250932.tar.gz\",\"https://api.github.com/repos/microg/GmsCore/tarball/v0.3.7.250932\"],[\"v0.3.7.250932.zip\",\"https://api.github.com/repos/microg/GmsCore/zipball/v0.3.7.250932\"]]",
             "preferredApkIndex": 0,
             "additionalSettings": "{\"includePrereleases\":false,\"fallbackToOlderReleases\":true,\"filterReleaseTitlesByRegEx\":\"\",\"filterReleaseNotesByRegEx\":\"\",\"verifyLatestTag\":false,\"sortMethodChoice\":\"date\",\"useLatestAssetDateAsReleaseDate\":false,\"releaseTitleAsVersion\":false,\"trackOnly\":false,\"versionExtractionRegEx\":\"\",\"matchGroupToUse\":\"\",\"versionDetection\":false,\"releaseDateAsVersion\":false,\"useVersionCodeAsOSVersion\":false,\"apkFilterRegEx\":\"com\\\\.android\\\\.vending-([A-Za-z0-9]+(\\\\.[A-Za-z0-9]+)+)\",\"invertAPKFilter\":false,\"autoApkFilterByArch\":true,\"appName\":\"microG - Vending (Fake Play Store)\",\"appAuthor\":\"\",\"shizukuPretendToBeGooglePlay\":false,\"allowInsecure\":false,\"exemptFromBackgroundUpdates\":false,\"skipUpdateNotifications\":false,\"about\":\"\",\"refreshBeforeDownload\":false,\"dontSortReleasesList\":false}",
-            "lastUpdateCheck": 1746911636010143,
+            "lastUpdateCheck": 1748462845521419,
             "pinned": false,
             "categories": [
                 "Core Functionality"
@@ -53,7 +53,7 @@
             "otherAssetUrls": "[[\"Cherrygram-9.2.0-TG-11.9.1-armeabi-v7a.apk\",\"https://api.github.com/repos/arsLan4k1390/Cherrygram/releases/assets/251804182\"],[\"Cherrygram-9.2.0-TG-11.9.1-universal.apk\",\"https://api.github.com/repos/arsLan4k1390/Cherrygram/releases/assets/251804332\"],[\"Cherrygram-Huawei-9.2.0-TG-11.9.1-arm64-v8a.apk\",\"https://api.github.com/repos/arsLan4k1390/Cherrygram/releases/assets/251804439\"],[\"Cherrygram-Huawei-9.2.0-TG-11.9.1-armeabi-v7a.apk\",\"https://api.github.com/repos/arsLan4k1390/Cherrygram/releases/assets/251804631\"],[\"Cherrygram-Huawei-9.2.0-TG-11.9.1-universal.apk\",\"https://api.github.com/repos/arsLan4k1390/Cherrygram/releases/assets/251804717\"],[\"9.2.0.tar.gz\",\"https://api.github.com/repos/arsLan4k1390/Cherrygram/tarball/9.2.0\"],[\"9.2.0.zip\",\"https://api.github.com/repos/arsLan4k1390/Cherrygram/zipball/9.2.0\"]]",
             "preferredApkIndex": 0,
             "additionalSettings": "{\"includePrereleases\":true,\"fallbackToOlderReleases\":true,\"filterReleaseTitlesByRegEx\":\"\",\"filterReleaseNotesByRegEx\":\"\",\"verifyLatestTag\":false,\"sortMethodChoice\":\"date\",\"useLatestAssetDateAsReleaseDate\":false,\"releaseTitleAsVersion\":false,\"trackOnly\":false,\"versionExtractionRegEx\":\"\",\"matchGroupToUse\":\"\",\"versionDetection\":false,\"releaseDateAsVersion\":true,\"useVersionCodeAsOSVersion\":false,\"apkFilterRegEx\":\"Cherrygram-([A-Za-z0-9]+(\\\\.[A-Za-z0-9]+)+)-TG-1\\\\d\\\\.\\\\d([+-]?(?=\\\\.\\\\d|\\\\d)(?:\\\\d+)?(?:\\\\.?\\\\d*))(?:[Ee]([+-]?\\\\d+))?-arm64-v8a\\\\.apk\",\"invertAPKFilter\":false,\"autoApkFilterByArch\":false,\"appName\":\"\",\"appAuthor\":\"\",\"shizukuPretendToBeGooglePlay\":false,\"allowInsecure\":false,\"exemptFromBackgroundUpdates\":false,\"skipUpdateNotifications\":false,\"about\":\"\",\"refreshBeforeDownload\":false,\"dontSortReleasesList\":false}",
-            "lastUpdateCheck": 1746911641046502,
+            "lastUpdateCheck": 1748462851440987,
             "pinned": false,
             "categories": [
                 "Social"
@@ -87,15 +87,15 @@
         {
             "id": "org.videolan.vlc",
             "url": "https://f-droid.org/packages/org.videolan.vlc",
-            "author": "F-Droid Official",
+            "author": "F-Droid official",
             "name": "VLC",
-            "installedVersion": null,
-            "latestVersion": "3.6.3",
-            "apkUrls": "[[\"org.videolan.vlc_13060306.apk\",\"https://f-droid.org/repo/org.videolan.vlc_13060306.apk\"]]",
+            "installedVersion": "3.6.5",
+            "latestVersion": "3.6.5",
+            "apkUrls": "[[\"org.videolan.vlc_13060506.apk\",\"https://f-droid.org/repo/org.videolan.vlc_13060506.apk\"]]",
             "otherAssetUrls": "[]",
             "preferredApkIndex": 0,
             "additionalSettings": "{\"filterVersionsByRegEx\":\"\",\"trySelectingSuggestedVersionCode\":false,\"autoSelectHighestVersionCode\":true,\"trackOnly\":false,\"versionExtractionRegEx\":\"\",\"matchGroupToUse\":\"\",\"versionDetection\":true,\"useVersionCodeAsOSVersion\":false,\"apkFilterRegEx\":\"([A-Za-z]+(\\\\.[A-Za-z]+)+)_1\\\\d\\\\d\\\\d\\\\d\\\\d06\\\\.apk\",\"invertAPKFilter\":false,\"autoApkFilterByArch\":true,\"appName\":\"\",\"appAuthor\":\"\",\"shizukuPretendToBeGooglePlay\":false,\"allowInsecure\":false,\"exemptFromBackgroundUpdates\":false,\"skipUpdateNotifications\":false,\"about\":\"\",\"refreshBeforeDownload\":false}",
-            "lastUpdateCheck": 1746736790252793,
+            "lastUpdateCheck": 1748462853595676,
             "pinned": false,
             "categories": [
                 "Local Media"
@@ -108,7 +108,7 @@
         {
             "id": "org.mozilla.fennec_fdroid",
             "url": "https://f-droid.org/packages/org.mozilla.fennec_fdroid",
-            "author": "F-Droid Official",
+            "author": "F-Droid official",
             "name": "Fennec",
             "installedVersion": "138.0.0",
             "latestVersion": "138.0.0",
@@ -116,7 +116,7 @@
             "otherAssetUrls": "[]",
             "preferredApkIndex": 0,
             "additionalSettings": "{\"filterVersionsByRegEx\":\"\",\"trySelectingSuggestedVersionCode\":true,\"autoSelectHighestVersionCode\":false,\"trackOnly\":false,\"versionExtractionRegEx\":\"\",\"matchGroupToUse\":\"\",\"versionDetection\":true,\"useVersionCodeAsOSVersion\":false,\"apkFilterRegEx\":\"\",\"invertAPKFilter\":false,\"autoApkFilterByArch\":true,\"appName\":\"\",\"appAuthor\":\"\",\"shizukuPretendToBeGooglePlay\":false,\"allowInsecure\":false,\"exemptFromBackgroundUpdates\":false,\"skipUpdateNotifications\":false,\"about\":\"\",\"refreshBeforeDownload\":false}",
-            "lastUpdateCheck": 1746911642274473,
+            "lastUpdateCheck": 1748462853893286,
             "pinned": false,
             "categories": [
                 "Browser"
@@ -137,7 +137,7 @@
             "otherAssetUrls": "[[\"app-tempo-debug.apk\",\"https://api.github.com/repos/CappielloAntonio/tempo/releases/assets/216979481\"],[\"3.9.0.tar.gz\",\"https://api.github.com/repos/CappielloAntonio/tempo/tarball/3.9.0\"],[\"3.9.0.zip\",\"https://api.github.com/repos/CappielloAntonio/tempo/zipball/3.9.0\"]]",
             "preferredApkIndex": 0,
             "additionalSettings": "{\"includePrereleases\":false,\"fallbackToOlderReleases\":true,\"filterReleaseTitlesByRegEx\":\"\",\"filterReleaseNotesByRegEx\":\"\",\"verifyLatestTag\":false,\"sortMethodChoice\":\"date\",\"useLatestAssetDateAsReleaseDate\":false,\"releaseTitleAsVersion\":false,\"trackOnly\":false,\"versionExtractionRegEx\":\"\",\"matchGroupToUse\":\"\",\"versionDetection\":true,\"releaseDateAsVersion\":false,\"useVersionCodeAsOSVersion\":false,\"apkFilterRegEx\":\"[A-Za-z]+-temp[A-Za-z]-release\\\\.[A-Za-z]+\",\"invertAPKFilter\":false,\"autoApkFilterByArch\":true,\"appName\":\"\",\"appAuthor\":\"\",\"shizukuPretendToBeGooglePlay\":false,\"allowInsecure\":false,\"exemptFromBackgroundUpdates\":false,\"skipUpdateNotifications\":false,\"about\":\"\",\"refreshBeforeDownload\":false,\"dontSortReleasesList\":false}",
-            "lastUpdateCheck": 1746911633316297,
+            "lastUpdateCheck": 1748462841297885,
             "pinned": false,
             "categories": [
                 "Streaming",
@@ -159,7 +159,7 @@
             "otherAssetUrls": "[]",
             "preferredApkIndex": 0,
             "additionalSettings": "{\"fallbackToOlderReleases\":true,\"trackOnly\":false,\"versionExtractionRegEx\":\"\",\"matchGroupToUse\":\"\",\"versionDetection\":true,\"releaseDateAsVersion\":false,\"useVersionCodeAsOSVersion\":false,\"apkFilterRegEx\":\"AuroraStore-(\\\\d(\\\\.\\\\d)+)\\\\.apk\",\"invertAPKFilter\":false,\"autoApkFilterByArch\":true,\"appName\":\"\",\"appAuthor\":\"\",\"shizukuPretendToBeGooglePlay\":false,\"allowInsecure\":false,\"exemptFromBackgroundUpdates\":false,\"skipUpdateNotifications\":false,\"about\":\"\",\"refreshBeforeDownload\":false}",
-            "lastUpdateCheck": 1746911634181932,
+            "lastUpdateCheck": 1748462844435883,
             "pinned": false,
             "categories": [
                 "App Management"
@@ -202,7 +202,7 @@
             "otherAssetUrls": "[]",
             "preferredApkIndex": 0,
             "additionalSettings": "{\"filterVersionsByRegEx\":\"\",\"trySelectingSuggestedVersionCode\":false,\"autoSelectHighestVersionCode\":false,\"trackOnly\":false,\"versionExtractionRegEx\":\"\",\"matchGroupToUse\":\"\",\"versionDetection\":true,\"useVersionCodeAsOSVersion\":false,\"apkFilterRegEx\":\"\",\"invertAPKFilter\":false,\"autoApkFilterByArch\":true,\"appName\":\"\",\"appAuthor\":\"\",\"shizukuPretendToBeGooglePlay\":false,\"allowInsecure\":false,\"exemptFromBackgroundUpdates\":false,\"skipUpdateNotifications\":false,\"about\":\"\",\"refreshBeforeDownload\":false}",
-            "lastUpdateCheck": 1746911634198112,
+            "lastUpdateCheck": 1748462845015885,
             "pinned": false,
             "categories": [
                 "File Manager"
@@ -223,7 +223,7 @@
             "otherAssetUrls": "[[\"breezy-weather-armeabi-v7a-v5.4.7_standard.apk\",\"https://api.github.com/repos/breezy-weather/breezy-weather/releases/assets/250068936\"],[\"breezy-weather-v5.4.7_freenet.apk\",\"https://api.github.com/repos/breezy-weather/breezy-weather/releases/assets/250068939\"],[\"breezy-weather-v5.4.7_standard.apk\",\"https://api.github.com/repos/breezy-weather/breezy-weather/releases/assets/250068935\"],[\"breezy-weather-x86-v5.4.7_standard.apk\",\"https://api.github.com/repos/breezy-weather/breezy-weather/releases/assets/250068934\"],[\"breezy-weather-x86_64-v5.4.7_standard.apk\",\"https://api.github.com/repos/breezy-weather/breezy-weather/releases/assets/250068940\"],[\"mapping-v5.4.7_freenet.tar.gz\",\"https://github.com/breezy-weather/breezy-weather/releases/download/v5.4.7/mapping-v5.4.7_freenet.tar.gz\"],[\"mapping-v5.4.7_standard.tar.gz\",\"https://github.com/breezy-weather/breezy-weather/releases/download/v5.4.7/mapping-v5.4.7_standard.tar.gz\"],[\"v5.4.7.tar.gz\",\"https://api.github.com/repos/breezy-weather/breezy-weather/tarball/v5.4.7\"],[\"v5.4.7.zip\",\"https://api.github.com/repos/breezy-weather/breezy-weather/zipball/v5.4.7\"]]",
             "preferredApkIndex": 0,
             "additionalSettings": "{\"includePrereleases\":false,\"fallbackToOlderReleases\":true,\"filterReleaseTitlesByRegEx\":\"\",\"filterReleaseNotesByRegEx\":\"\",\"verifyLatestTag\":false,\"sortMethodChoice\":\"date\",\"useLatestAssetDateAsReleaseDate\":false,\"releaseTitleAsVersion\":false,\"trackOnly\":false,\"versionExtractionRegEx\":\"\",\"matchGroupToUse\":\"\",\"versionDetection\":true,\"releaseDateAsVersion\":false,\"useVersionCodeAsOSVersion\":false,\"apkFilterRegEx\":\"\",\"invertAPKFilter\":false,\"autoApkFilterByArch\":true,\"appName\":\"\",\"appAuthor\":\"\",\"shizukuPretendToBeGooglePlay\":false,\"allowInsecure\":false,\"exemptFromBackgroundUpdates\":false,\"skipUpdateNotifications\":false,\"about\":\"\",\"refreshBeforeDownload\":false,\"dontSortReleasesList\":false}",
-            "lastUpdateCheck": 1746911642121262,
+            "lastUpdateCheck": 1748462853339485,
             "pinned": false,
             "categories": [
                 "Widgets",
@@ -239,19 +239,19 @@
             "url": "https://github.com/TechbeeAT/jtxBoard",
             "author": "TechbeeAT",
             "name": "jtx Board",
-            "installedVersion": "v2.11.3",
-            "latestVersion": "v2.11.3",
-            "apkUrls": "[[\"jtxBoard-v2.11.3.apk\",\"https://api.github.com/repos/TechbeeAT/jtxBoard/releases/assets/252183830\"]]",
-            "otherAssetUrls": "[[\"release-v2.11.3.tar.xz\",\"https://github.com/TechbeeAT/jtxBoard/releases/download/v2.11.3/release-v2.11.3.tar.xz\"],[\"v2.11.3.tar.gz\",\"https://api.github.com/repos/TechbeeAT/jtxBoard/tarball/v2.11.3\"],[\"v2.11.3.zip\",\"https://api.github.com/repos/TechbeeAT/jtxBoard/zipball/v2.11.3\"]]",
+            "installedVersion": "v2.11.4",
+            "latestVersion": "v2.11.4",
+            "apkUrls": "[[\"jtxBoard-v2.11.4.apk\",\"https://api.github.com/repos/TechbeeAT/jtxBoard/releases/assets/257934464\"]]",
+            "otherAssetUrls": "[[\"release-v2.11.4.tar.xz\",\"https://github.com/TechbeeAT/jtxBoard/releases/download/v2.11.4/release-v2.11.4.tar.xz\"],[\"v2.11.4.tar.gz\",\"https://api.github.com/repos/TechbeeAT/jtxBoard/tarball/v2.11.4\"],[\"v2.11.4.zip\",\"https://api.github.com/repos/TechbeeAT/jtxBoard/zipball/v2.11.4\"]]",
             "preferredApkIndex": 0,
             "additionalSettings": "{\"includePrereleases\":false,\"fallbackToOlderReleases\":true,\"filterReleaseTitlesByRegEx\":\"\",\"filterReleaseNotesByRegEx\":\"\",\"verifyLatestTag\":false,\"sortMethodChoice\":\"date\",\"useLatestAssetDateAsReleaseDate\":false,\"releaseTitleAsVersion\":false,\"trackOnly\":false,\"versionExtractionRegEx\":\"\",\"matchGroupToUse\":\"\",\"versionDetection\":false,\"releaseDateAsVersion\":false,\"useVersionCodeAsOSVersion\":false,\"apkFilterRegEx\":\"\",\"invertAPKFilter\":false,\"autoApkFilterByArch\":true,\"appName\":\"\",\"appAuthor\":\"\",\"shizukuPretendToBeGooglePlay\":false,\"allowInsecure\":false,\"exemptFromBackgroundUpdates\":false,\"skipUpdateNotifications\":false,\"about\":\"\",\"refreshBeforeDownload\":false,\"dontSortReleasesList\":false}",
-            "lastUpdateCheck": 1746911638097059,
+            "lastUpdateCheck": 1748462848125502,
             "pinned": false,
             "categories": [
                 "Self-host"
             ],
-            "releaseDate": 1746496388000000,
-            "changeLog": "- Creation date is now preserved when an entry is moved to another collection\r\n- Library updates\r\n\r\n**Full Changelog**: https://github.com/TechbeeAT/jtxBoard/compare/v2.11.2...v2.11.3",
+            "releaseDate": 1748164479000000,
+            "changeLog": "- Notifications are removed now if tasks are marked as done or deleted on a server\r\n- Library updates\r\n- Persian language support\r\n- Fixed colors for contrast theme\r\n\r\n**Full Changelog**: https://github.com/TechbeeAT/jtxBoard/compare/v2.11.3...v2.11.4",
             "overrideSource": null,
             "allowIdChange": false
         },
@@ -342,7 +342,7 @@
         {
             "id": "de.danoeh.antennapod",
             "url": "https://f-droid.org/packages/de.danoeh.antennapod",
-            "author": "F-Droid Official",
+            "author": "F-Droid official",
             "name": "AntennaPod",
             "installedVersion": "3.8.0",
             "latestVersion": "3.8.0",
@@ -350,7 +350,7 @@
             "otherAssetUrls": "[]",
             "preferredApkIndex": 0,
             "additionalSettings": "{\"filterVersionsByRegEx\":\"\",\"trySelectingSuggestedVersionCode\":false,\"autoSelectHighestVersionCode\":false,\"trackOnly\":false,\"versionExtractionRegEx\":\"\",\"matchGroupToUse\":\"\",\"versionDetection\":true,\"useVersionCodeAsOSVersion\":false,\"apkFilterRegEx\":\"\",\"invertAPKFilter\":false,\"autoApkFilterByArch\":true,\"appName\":\"\",\"appAuthor\":\"\",\"shizukuPretendToBeGooglePlay\":false,\"allowInsecure\":false,\"exemptFromBackgroundUpdates\":false,\"skipUpdateNotifications\":false,\"about\":\"\",\"refreshBeforeDownload\":false}",
-            "lastUpdateCheck": 1746911637053692,
+            "lastUpdateCheck": 1748462846809340,
             "pinned": false,
             "categories": [
                 "Streaming"
@@ -365,20 +365,20 @@
             "url": "https://github.com/tailscale/tailscale-android",
             "author": "tailscale",
             "name": "Tailscale",
-            "installedVersion": "1.80.0-t4f4686503-gb1405a1d1",
-            "latestVersion": "1.80.0-t4f4686503-gb1405a1d1",
-            "apkUrls": "[[\"tailscale-android-universal-1.80.0.apk\",\"https://api.github.com/repos/tailscale/tailscale-android/releases/assets/225964473\"]]",
-            "otherAssetUrls": "[[\"1.80.0-t4f4686503-gb1405a1d1.tar.gz\",\"https://api.github.com/repos/tailscale/tailscale-android/tarball/1.80.0-t4f4686503-gb1405a1d1\"],[\"1.80.0-t4f4686503-gb1405a1d1.zip\",\"https://api.github.com/repos/tailscale/tailscale-android/zipball/1.80.0-t4f4686503-gb1405a1d1\"]]",
+            "installedVersion": "1.84.0-t160c11f37-g85967d5d4",
+            "latestVersion": "1.84.0-t160c11f37-g85967d5d4",
+            "apkUrls": "[[\"tailscale-android-universal-1.84.0.apk\",\"https://api.github.com/repos/tailscale/tailscale-android/releases/assets/256826781\"]]",
+            "otherAssetUrls": "[[\"1.84.0-t160c11f37-g85967d5d4.tar.gz\",\"https://api.github.com/repos/tailscale/tailscale-android/tarball/1.84.0-t160c11f37-g85967d5d4\"],[\"1.84.0-t160c11f37-g85967d5d4.zip\",\"https://api.github.com/repos/tailscale/tailscale-android/zipball/1.84.0-t160c11f37-g85967d5d4\"]]",
             "preferredApkIndex": 0,
             "additionalSettings": "{\"includePrereleases\":false,\"fallbackToOlderReleases\":true,\"filterReleaseTitlesByRegEx\":\"\",\"filterReleaseNotesByRegEx\":\"\",\"verifyLatestTag\":false,\"sortMethodChoice\":\"date\",\"useLatestAssetDateAsReleaseDate\":false,\"releaseTitleAsVersion\":false,\"trackOnly\":false,\"versionExtractionRegEx\":\"\",\"matchGroupToUse\":\"\",\"versionDetection\":false,\"releaseDateAsVersion\":false,\"useVersionCodeAsOSVersion\":false,\"apkFilterRegEx\":\"\",\"invertAPKFilter\":false,\"autoApkFilterByArch\":true,\"appName\":\"\",\"appAuthor\":\"\",\"shizukuPretendToBeGooglePlay\":false,\"allowInsecure\":false,\"exemptFromBackgroundUpdates\":false,\"skipUpdateNotifications\":false,\"about\":\"\",\"refreshBeforeDownload\":false,\"dontSortReleasesList\":false}",
-            "lastUpdateCheck": 1746911633007061,
+            "lastUpdateCheck": 1748462840776817,
             "pinned": false,
             "categories": [
                 "Security",
                 "Self-host"
             ],
-            "releaseDate": 1738613956000000,
-            "changeLog": "Please refer to the changelog available at https://tailscale.com/changelog#2025-01-30.",
+            "releaseDate": 1747862063000000,
+            "changeLog": "Please refer to the changelog available at https://tailscale.com/changelog",
             "overrideSource": null,
             "allowIdChange": false
         },
@@ -393,7 +393,7 @@
             "otherAssetUrls": "[[\"v4.4.10-ose.tar.gz\",\"https://api.github.com/repos/bitfireAT/davx5-ose/tarball/v4.4.10-ose\"],[\"v4.4.10-ose.zip\",\"https://api.github.com/repos/bitfireAT/davx5-ose/zipball/v4.4.10-ose\"]]",
             "preferredApkIndex": 0,
             "additionalSettings": "{\"includePrereleases\":false,\"fallbackToOlderReleases\":true,\"filterReleaseTitlesByRegEx\":\"\",\"filterReleaseNotesByRegEx\":\"\",\"verifyLatestTag\":false,\"sortMethodChoice\":\"date\",\"useLatestAssetDateAsReleaseDate\":false,\"releaseTitleAsVersion\":false,\"trackOnly\":false,\"versionExtractionRegEx\":\"\",\"matchGroupToUse\":\"\",\"versionDetection\":true,\"releaseDateAsVersion\":false,\"useVersionCodeAsOSVersion\":false,\"apkFilterRegEx\":\"\",\"invertAPKFilter\":false,\"autoApkFilterByArch\":true,\"appName\":\"\",\"appAuthor\":\"\",\"shizukuPretendToBeGooglePlay\":false,\"allowInsecure\":false,\"exemptFromBackgroundUpdates\":false,\"skipUpdateNotifications\":false,\"about\":\"\",\"refreshBeforeDownload\":false,\"dontSortReleasesList\":false}",
-            "lastUpdateCheck": 1746911634897280,
+            "lastUpdateCheck": 1748462844071890,
             "pinned": false,
             "categories": [
                 "Sync"
@@ -435,7 +435,7 @@
             "otherAssetUrls": "[[\"youtube-music-revanced-extended-magisk-v8.02.53-arm-v7a.zip\",\"https://github.com/MANCrimSon/YouTube-ReVanced-Extended/releases/download/140/youtube-music-revanced-extended-magisk-v8.02.53-arm-v7a.zip\"],[\"youtube-music-revanced-extended-magisk-v8.02.53-arm64-v8a.zip\",\"https://github.com/MANCrimSon/YouTube-ReVanced-Extended/releases/download/140/youtube-music-revanced-extended-magisk-v8.02.53-arm64-v8a.zip\"],[\"youtube-music-revanced-extended-v8.02.53-arm-v7a.apk\",\"https://api.github.com/repos/MANCrimSon/YouTube-ReVanced-Extended/releases/assets/227304630\"],[\"youtube-revanced-extended-magisk-v19.44.39-all.zip\",\"https://github.com/MANCrimSon/YouTube-ReVanced-Extended/releases/download/140/youtube-revanced-extended-magisk-v19.44.39-all.zip\"],[\"youtube-revanced-extended-v19.44.39-all.apk\",\"https://api.github.com/repos/MANCrimSon/YouTube-ReVanced-Extended/releases/assets/227304526\"],[\"140.tar.gz\",\"https://api.github.com/repos/MANCrimSon/YouTube-ReVanced-Extended/tarball/140\"],[\"140.zip\",\"https://api.github.com/repos/MANCrimSon/YouTube-ReVanced-Extended/zipball/140\"]]",
             "preferredApkIndex": 0,
             "additionalSettings": "{\"includePrereleases\":false,\"fallbackToOlderReleases\":true,\"filterReleaseTitlesByRegEx\":\"\",\"filterReleaseNotesByRegEx\":\"\",\"verifyLatestTag\":false,\"sortMethodChoice\":\"date\",\"useLatestAssetDateAsReleaseDate\":false,\"releaseTitleAsVersion\":false,\"trackOnly\":false,\"versionExtractionRegEx\":\"\",\"matchGroupToUse\":\"\",\"versionDetection\":false,\"releaseDateAsVersion\":false,\"useVersionCodeAsOSVersion\":false,\"apkFilterRegEx\":\"youtube-music-revanced-extended-v8\\\\.02[0-9]*\\\\.[0-9]+-arm64-v8a\\\\.apk\",\"invertAPKFilter\":false,\"autoApkFilterByArch\":true,\"appName\":\"YouTube Music Revanced Extended\",\"appAuthor\":\"\",\"shizukuPretendToBeGooglePlay\":false,\"allowInsecure\":false,\"exemptFromBackgroundUpdates\":false,\"skipUpdateNotifications\":false,\"about\":\"\",\"refreshBeforeDownload\":false,\"dontSortReleasesList\":false}",
-            "lastUpdateCheck": 1746911639277254,
+            "lastUpdateCheck": 1748462850651770,
             "pinned": false,
             "categories": [
                 "Revanced",
@@ -453,17 +453,17 @@
             "name": "CloudStream Beta",
             "installedVersion": "pre-release",
             "latestVersion": "pre-release",
-            "apkUrls": "[[\"app-prerelease-release.apk\",\"https://api.github.com/repos/recloudstream/cloudstream/releases/assets/250498903\"]]",
+            "apkUrls": "[[\"app-prerelease-release.apk\",\"https://api.github.com/repos/recloudstream/cloudstream/releases/assets/256410911\"]]",
             "otherAssetUrls": "[[\"app-sources.jar\",\"https://github.com/recloudstream/cloudstream/releases/download/pre-release/app-sources.jar\"],[\"classes.jar\",\"https://github.com/recloudstream/cloudstream/releases/download/pre-release/classes.jar\"],[\"pre-release.tar.gz\",\"https://api.github.com/repos/recloudstream/cloudstream/tarball/pre-release\"],[\"pre-release.zip\",\"https://api.github.com/repos/recloudstream/cloudstream/zipball/pre-release\"]]",
             "preferredApkIndex": 0,
             "additionalSettings": "{\"includePrereleases\":true,\"fallbackToOlderReleases\":true,\"filterReleaseTitlesByRegEx\":\"\",\"filterReleaseNotesByRegEx\":\"\",\"verifyLatestTag\":false,\"sortMethodChoice\":\"date\",\"useLatestAssetDateAsReleaseDate\":false,\"releaseTitleAsVersion\":false,\"trackOnly\":false,\"versionExtractionRegEx\":\"\",\"matchGroupToUse\":\"\",\"versionDetection\":false,\"releaseDateAsVersion\":false,\"useVersionCodeAsOSVersion\":false,\"apkFilterRegEx\":\"\",\"invertAPKFilter\":false,\"autoApkFilterByArch\":true,\"appName\":\"CloudStream\",\"appAuthor\":\"\",\"shizukuPretendToBeGooglePlay\":false,\"allowInsecure\":false,\"exemptFromBackgroundUpdates\":false,\"skipUpdateNotifications\":false,\"about\":\"\",\"refreshBeforeDownload\":false,\"dontSortReleasesList\":false}",
-            "lastUpdateCheck": 1746911633757642,
+            "lastUpdateCheck": 1748462840997113,
             "pinned": false,
             "categories": [
                 "Streaming"
             ],
-            "releaseDate": 1745952404000000,
-            "changeLog": "## Commits\n- 4217a71: Updated the safe function for more ergonomic code (#1675) (firelight) [#1675](https://github.com/recloudstream/cloudstream/pull/1675)",
+            "releaseDate": 1747758580000000,
+            "changeLog": "## Commits\n- 0281675: Voe Fix (#1696) (Phisher98) [#1696](https://github.com/recloudstream/cloudstream/pull/1696)",
             "overrideSource": null,
             "allowIdChange": false
         },
@@ -472,20 +472,20 @@
             "url": "https://github.com/AChep/keyguard-app",
             "author": "AChep",
             "name": "Keyguard",
-            "installedVersion": "r20250324",
-            "latestVersion": "r20250324",
-            "apkUrls": "[[\"androidApp-none-release.apk\",\"https://api.github.com/repos/AChep/keyguard-app/releases/assets/240359866\"]]",
-            "otherAssetUrls": "[[\"Keyguard-1.11.0-apple.dmg\",\"https://github.com/AChep/keyguard-app/releases/download/r20250324/Keyguard-1.11.0-apple.dmg\"],[\"Keyguard-1.11.0-intel.dmg\",\"https://github.com/AChep/keyguard-app/releases/download/r20250324/Keyguard-1.11.0-intel.dmg\"],[\"Keyguard-1.11.0.msi\",\"https://github.com/AChep/keyguard-app/releases/download/r20250324/Keyguard-1.11.0.msi\"],[\"Keyguard.flatpak\",\"https://github.com/AChep/keyguard-app/releases/download/r20250324/Keyguard.flatpak\"],[\"r20250324.tar.gz\",\"https://api.github.com/repos/AChep/keyguard-app/tarball/r20250324\"],[\"r20250324.zip\",\"https://api.github.com/repos/AChep/keyguard-app/zipball/r20250324\"]]",
+            "installedVersion": "r20250528",
+            "latestVersion": "r20250528",
+            "apkUrls": "[[\"androidApp-none-release.apk\",\"https://api.github.com/repos/AChep/keyguard-app/releases/assets/258754729\"]]",
+            "otherAssetUrls": "[[\"Keyguard-1.12.2-apple.dmg\",\"https://github.com/AChep/keyguard-app/releases/download/r20250528/Keyguard-1.12.2-apple.dmg\"],[\"Keyguard-1.12.2-intel.dmg\",\"https://github.com/AChep/keyguard-app/releases/download/r20250528/Keyguard-1.12.2-intel.dmg\"],[\"Keyguard-1.12.2.msi\",\"https://github.com/AChep/keyguard-app/releases/download/r20250528/Keyguard-1.12.2.msi\"],[\"Keyguard.flatpak\",\"https://github.com/AChep/keyguard-app/releases/download/r20250528/Keyguard.flatpak\"],[\"r20250528.tar.gz\",\"https://api.github.com/repos/AChep/keyguard-app/tarball/r20250528\"],[\"r20250528.zip\",\"https://api.github.com/repos/AChep/keyguard-app/zipball/r20250528\"]]",
             "preferredApkIndex": 0,
             "additionalSettings": "{\"includePrereleases\":false,\"fallbackToOlderReleases\":true,\"filterReleaseTitlesByRegEx\":\"\",\"filterReleaseNotesByRegEx\":\"\",\"verifyLatestTag\":false,\"sortMethodChoice\":\"date\",\"useLatestAssetDateAsReleaseDate\":false,\"releaseTitleAsVersion\":false,\"trackOnly\":false,\"versionExtractionRegEx\":\"\",\"matchGroupToUse\":\"\",\"versionDetection\":false,\"releaseDateAsVersion\":false,\"useVersionCodeAsOSVersion\":false,\"apkFilterRegEx\":\"\",\"invertAPKFilter\":false,\"autoApkFilterByArch\":true,\"appName\":\"Keyguard\",\"appAuthor\":\"\",\"shizukuPretendToBeGooglePlay\":false,\"allowInsecure\":false,\"exemptFromBackgroundUpdates\":false,\"skipUpdateNotifications\":false,\"about\":\"\",\"refreshBeforeDownload\":false,\"dontSortReleasesList\":false}",
-            "lastUpdateCheck": 1746911641444030,
+            "lastUpdateCheck": 1748462853192309,
             "pinned": false,
             "categories": [
                 "Security",
                 "Alt 3rd Party"
             ],
-            "releaseDate": 1742837256000000,
-            "changeLog": "- [21e99bb7](http://github.com/AChep/keyguard-app/commit/21e99bb7c79356056c863a1c5221c26831295146) - deps: Bump Kotlin to 2.1.20 and Compose to 1.8.0-beta01\n- [06af373c](http://github.com/AChep/keyguard-app/commit/06af373c357595d1a9beedd34ff02585faaf4148) - build(deps): Bump net.java.dev.jna:jna from 5.16.0 to 5.17.0\n- [027b9b3a](http://github.com/AChep/keyguard-app/commit/027b9b3a05c1bdd97a4bd421a136e9620edb1ca3) - build(deps): Bump dbusJava from 5.1.0 to 5.1.1\n- [f61b5a22](http://github.com/AChep/keyguard-app/commit/f61b5a22aa51ed1dac7f3aa59dd916e57bd2ba16) - build(deps): Bump metcalfc/changelog-generator from 4.3.1 to 4.5.0\n- [2381c27c](http://github.com/AChep/keyguard-app/commit/2381c27ce0c75b1719e9100e4002912f22357127) - chore: Bump app version to 1.11.0\n- [c8ebe583](http://github.com/AChep/keyguard-app/commit/c8ebe5833d23ba1d0626eab1e1d8d7c1e915f9fd) - [AUTO]Update localization library\n- [1d942ebf](http://github.com/AChep/keyguard-app/commit/1d942ebf53c279c91cbbc3201ec780569b9c49fc) - [AUTO]Update two-factor auth library\n- [55889ebf](http://github.com/AChep/keyguard-app/commit/55889ebf2fee5bcdadd38e44ae5d81d4defeafd6) - [AUTO]Update Public suffix list\n- [826933b8](http://github.com/AChep/keyguard-app/commit/826933b8ba8093008de2bc6d63d1b85428adee51) - [AUTO]Update passkeys library\n- [e6a86e7e](http://github.com/AChep/keyguard-app/commit/e6a86e7ef7b76b173adf687d9fdcf11341201a38) - [AUTO]Update justdeleteme library\n- [eb9a2ddc](http://github.com/AChep/keyguard-app/commit/eb9a2ddc975e129f1d5effc644a497a356ace303) - build(deps): Bump androidx.credentials:credentials\n- [aa82edec](http://github.com/AChep/keyguard-app/commit/aa82edec275b1e5aa2e5dee8426d455fda349be3) - fix(Watchtower): Do not notify about warnings in ciphers in the Trash\n- [64d70566](http://github.com/AChep/keyguard-app/commit/64d70566eeff774735392fdeb30db1d14b1f9983) - fix(Watchtower): Process changes in Broad URIs detection\n- [27f92a91](http://github.com/AChep/keyguard-app/commit/27f92a9154f72684e6550b1fca04842a20a963ca) - build: Bump Compose to 1.8.0-alpha04\n- [ab6f5222](http://github.com/AChep/keyguard-app/commit/ab6f522279bf04ac88bb45af24f4a9afa2365c1d) - improvement(Android): Enable keyboard Incognito mode on concealed fields\n- [3cb96919](http://github.com/AChep/keyguard-app/commit/3cb96919c9ca552f28bc4ce7e32d681458747576) - improvement(Desktop): Add support for KeyValueStore.getAll()\n- [ae919b54](http://github.com/AChep/keyguard-app/commit/ae919b54e2a57123c49d81c92d55a0715705312b) - fix: Localized Abc sorting #859\n- [cac75bda](http://github.com/AChep/keyguard-app/commit/cac75bda859d49a1f1206fddb11f86440e3531fd) - build(deps): Bump androidPlugin from 8.8.2 to 8.9.0\n- [d943a219](http://github.com/AChep/keyguard-app/commit/d943a21999fa84a5aaa9d1bc86e101e1b9442a6d) - fix: Minor source localization fixes\n- [2e97cf53](http://github.com/AChep/keyguard-app/commit/2e97cf532c14db487cb8dd8c2e95098e23a08194) - build(deps): Bump androidx.activity:activity-compose\n- [58baa158](http://github.com/AChep/keyguard-app/commit/58baa158552128585ce497df4f9c6067750abefb) - build(deps): Bump com.google.devtools.ksp\n- [cb7e5523](http://github.com/AChep/keyguard-app/commit/cb7e552398e48e5a20c247a2efb10fccdb22674e) - build(deps): Bump androidPlugin from 8.8.1 to 8.8.2\n- [f9f5e43f](http://github.com/AChep/keyguard-app/commit/f9f5e43f10c79d5d42eb355ab83559b7e1faf73f) - build(deps): Bump com.google.firebase:firebase-bom\n- [780f8a2f](http://github.com/AChep/keyguard-app/commit/780f8a2f7b1b42e598e8de034fd3632776a21896) - improvement: Clear Watchtower notification when you open the Watchtower screen\n- [7bfcf814](http://github.com/AChep/keyguard-app/commit/7bfcf8147d5c949f50e5a26c73326d1a3a5b4825) - improvement: Add MacOS notification platform impl\n- [8546a356](http://github.com/AChep/keyguard-app/commit/8546a356bda049714e79d06801aefe6797e1fe14) - chore(licensee): Allow EPL-2.0\n- [2d3a8ab6](http://github.com/AChep/keyguard-app/commit/2d3a8ab6f15451780bb44a10c38595f8b54e9b39) - feat: Send Watchtower alerts as Notifications\n- [5eea4034](http://github.com/AChep/keyguard-app/commit/5eea40349539db318d1841765b589937b0ba580d) - build(deps): Bump androidx.datastore:datastore from 1.1.2 to 1.1.3\n- [2226c35b](http://github.com/AChep/keyguard-app/commit/2226c35be0dd7c56c6ede1587fbb562278c8ecfa) - build(deps): Bump org.jlleitschuh.gradle.ktlint from 12.1.2 to 12.2.0\n- [13839220](http://github.com/AChep/keyguard-app/commit/138392209f68b8e44965f47f004c4f9e289714ce) - build(deps): Bump net.harawata:appdirs from 1.3.0 to 1.4.0\n- [69303d48](http://github.com/AChep/keyguard-app/commit/69303d48925b1be7d23e0b5bbe945e40a04ac607) - build(deps): Bump androidx.core:core-splashscreen\n- [15356504](http://github.com/AChep/keyguard-app/commit/1535650464b6fa3f923798c8dbf87583bd6f9566) - build(deps): Bump org.slf4j:slf4j-api from 2.0.16 to 2.0.17\n",
+            "releaseDate": 1748414369000000,
+            "changeLog": "- [d068a6e4](http://github.com/AChep/keyguard-app/commit/d068a6e4ae5130f203d79ca29f7d3dcfb399a23a) - chore: Bump app version to 1.12.2\n- [fe6b11fb](http://github.com/AChep/keyguard-app/commit/fe6b11fbb857d51f1c6c02d89b485161165123c7) - [AUTO]Update localization library\n- [d2a60961](http://github.com/AChep/keyguard-app/commit/d2a609614d9121a0b3d128ce13b89832a1e6af37) - [AUTO]Update two-factor auth library\n- [8a28445b](http://github.com/AChep/keyguard-app/commit/8a28445b7fd7703addfc7871ffae371753fe908b) - [AUTO]Update Public suffix list\n- [e86e2f0b](http://github.com/AChep/keyguard-app/commit/e86e2f0bc9f29b28aecb4b7d0be77353a908bf24) - [AUTO]Update passkeys library\n- [71a27c23](http://github.com/AChep/keyguard-app/commit/71a27c23499923760ad11ccdacce096a1e58d2fa) - [AUTO]Update justgetmydata library\n- [e951408b](http://github.com/AChep/keyguard-app/commit/e951408bf6c570d01bc43c3418227fd1c3e072fa) - [AUTO]Update justdeleteme library\n- [6df010e9](http://github.com/AChep/keyguard-app/commit/6df010e98c27f95b0ed8a4cfcdf7a8c7aa69f3a9) - [AUTO]Update GPM Credential Privileged Apps JSON\n- [bde5b615](http://github.com/AChep/keyguard-app/commit/bde5b615760bb927d2144168e6c7fd035e7eae03) - fix: Send empty note as `null` instead of \"\" to hide in Bitwarden #946\n- [fc72def8](http://github.com/AChep/keyguard-app/commit/fc72def8b5336c18a08ee9fe99279171d2d81da3) - fix: Add inset padding to the \"Keyguard\" empty screen in landscape\n- [04585065](http://github.com/AChep/keyguard-app/commit/045850656f30feb3b0bc57a44c7835aed6759ec8) - fix: Migrate to latest accompanist\n- [8d170ab6](http://github.com/AChep/keyguard-app/commit/8d170ab623c724d722f3ebe67899ff8b3be5ef65) - improvement: Merge Passkeys correctly\n- [2a694166](http://github.com/AChep/keyguard-app/commit/2a69416679d0a43ebf49a0ecea77347ec781afcb) - build: Bump dependencies\n- [eeff83a0](http://github.com/AChep/keyguard-app/commit/eeff83a0cdcf1143a1352f329db8c86c6592a0d2) - improvement(Chromebook): Show copy toast messages\n- [b4e98453](http://github.com/AChep/keyguard-app/commit/b4e98453764ac2d8eb02d18e9313530661cbabc8) - fix(autofill): only mark autofill structure as webview if visible\n- [005f3fd3](http://github.com/AChep/keyguard-app/commit/005f3fd3cec180cdbbd0d8d347cd1d7039251afa) - @Adolar0042 has signed the CLA in AChep/keyguard-app#952\n- [5a8ad2a4](http://github.com/AChep/keyguard-app/commit/5a8ad2a4a775b5fc53de23a1a29f4e5a91e60dc6) - build(deps): Bump sqldelight from 2.0.2 to 2.1.0\n- [fe2205da](http://github.com/AChep/keyguard-app/commit/fe2205da8a375a1bcce47cf54a6567d67958f8cc) - @mixon606 has signed the CLA in AChep/keyguard-app#947\n- [019ae93a](http://github.com/AChep/keyguard-app/commit/019ae93acc38297af4d62e210e7690209da89f9a) - build(deps): Bump androidxLifecycle from 2.8.7 to 2.9.0\n",
             "overrideSource": null,
             "allowIdChange": false
         },
@@ -564,7 +564,7 @@
             "otherAssetUrls": "[[\"delta-v2.3.0.apk\",\"https://api.github.com/repos/Delta-Icons/android/releases/assets/251109181\"],[\"v2.3.0.tar.gz\",\"https://api.github.com/repos/Delta-Icons/android/tarball/v2.3.0\"],[\"v2.3.0.zip\",\"https://api.github.com/repos/Delta-Icons/android/zipball/v2.3.0\"]]",
             "preferredApkIndex": 0,
             "additionalSettings": "{\"includePrereleases\":false,\"fallbackToOlderReleases\":true,\"filterReleaseTitlesByRegEx\":\"\",\"filterReleaseNotesByRegEx\":\"\",\"verifyLatestTag\":false,\"sortMethodChoice\":\"date\",\"useLatestAssetDateAsReleaseDate\":false,\"releaseTitleAsVersion\":false,\"trackOnly\":false,\"versionExtractionRegEx\":\"\",\"matchGroupToUse\":\"\",\"versionDetection\":true,\"releaseDateAsVersion\":false,\"useVersionCodeAsOSVersion\":false,\"apkFilterRegEx\":\"[A-Za-z]+-([A-Za-z0-9]+(\\\\.[A-Za-z0-9]+)+)-foss\\\\.[A-Za-z]+\",\"invertAPKFilter\":false,\"autoApkFilterByArch\":true,\"appName\":\"\",\"appAuthor\":\"\",\"shizukuPretendToBeGooglePlay\":false,\"allowInsecure\":false,\"exemptFromBackgroundUpdates\":false,\"skipUpdateNotifications\":false,\"about\":\"\",\"refreshBeforeDownload\":false,\"dontSortReleasesList\":false}",
-            "lastUpdateCheck": 1746911637022024,
+            "lastUpdateCheck": 1748462846643390,
             "pinned": false,
             "categories": [
                 "Icons",
@@ -586,7 +586,7 @@
             "otherAssetUrls": "[[\"v6.1.0.tar.gz\",\"https://api.github.com/repos/DP-Hridayan/aShellYou/tarball/v6.1.0\"],[\"v6.1.0.zip\",\"https://api.github.com/repos/DP-Hridayan/aShellYou/zipball/v6.1.0\"]]",
             "preferredApkIndex": 0,
             "additionalSettings": "{\"includePrereleases\":false,\"fallbackToOlderReleases\":true,\"filterReleaseTitlesByRegEx\":\"\",\"filterReleaseNotesByRegEx\":\"\",\"verifyLatestTag\":false,\"sortMethodChoice\":\"date\",\"useLatestAssetDateAsReleaseDate\":false,\"releaseTitleAsVersion\":false,\"trackOnly\":false,\"versionExtractionRegEx\":\"\",\"matchGroupToUse\":\"\",\"versionDetection\":false,\"releaseDateAsVersion\":false,\"useVersionCodeAsOSVersion\":false,\"apkFilterRegEx\":\"\",\"invertAPKFilter\":false,\"autoApkFilterByArch\":true,\"appName\":\"\",\"appAuthor\":\"\",\"shizukuPretendToBeGooglePlay\":false,\"allowInsecure\":false,\"exemptFromBackgroundUpdates\":false,\"skipUpdateNotifications\":false,\"about\":\"\",\"refreshBeforeDownload\":false,\"dontSortReleasesList\":false}",
-            "lastUpdateCheck": 1746911634166055,
+            "lastUpdateCheck": 1748462842325823,
             "pinned": false,
             "categories": [
                 "Mods"
@@ -601,20 +601,20 @@
             "url": "https://github.com/MANCrimSon/YouTube-ReVanced-Extended",
             "author": "MANCrimSon",
             "name": "YouTube",
-            "installedVersion": "167",
-            "latestVersion": "167",
-            "apkUrls": "[[\"youtube-revanced-extended-v20.12.46-all.apk\",\"https://api.github.com/repos/MANCrimSon/YouTube-ReVanced-Extended/releases/assets/253516982\"]]",
-            "otherAssetUrls": "[[\"youtube-music-revanced-extended-magisk-v8.12.53-arm-v7a.zip\",\"https://github.com/MANCrimSon/YouTube-ReVanced-Extended/releases/download/167/youtube-music-revanced-extended-magisk-v8.12.53-arm-v7a.zip\"],[\"youtube-music-revanced-extended-magisk-v8.12.53-arm64-v8a.zip\",\"https://github.com/MANCrimSon/YouTube-ReVanced-Extended/releases/download/167/youtube-music-revanced-extended-magisk-v8.12.53-arm64-v8a.zip\"],[\"youtube-music-revanced-extended-v8.12.53-arm-v7a.apk\",\"https://api.github.com/repos/MANCrimSon/YouTube-ReVanced-Extended/releases/assets/253517021\"],[\"youtube-music-revanced-extended-v8.12.53-arm64-v8a.apk\",\"https://api.github.com/repos/MANCrimSon/YouTube-ReVanced-Extended/releases/assets/253517015\"],[\"youtube-revanced-extended-magisk-v20.12.46-all.zip\",\"https://github.com/MANCrimSon/YouTube-ReVanced-Extended/releases/download/167/youtube-revanced-extended-magisk-v20.12.46-all.zip\"],[\"167.tar.gz\",\"https://api.github.com/repos/MANCrimSon/YouTube-ReVanced-Extended/tarball/167\"],[\"167.zip\",\"https://api.github.com/repos/MANCrimSon/YouTube-ReVanced-Extended/zipball/167\"]]",
+            "installedVersion": "170",
+            "latestVersion": "170",
+            "apkUrls": "[[\"youtube-revanced-extended-v20.12.46-all.apk\",\"https://api.github.com/repos/MANCrimSon/YouTube-ReVanced-Extended/releases/assets/257914674\"]]",
+            "otherAssetUrls": "[[\"youtube-music-revanced-extended-magisk-v8.12.53-arm-v7a.zip\",\"https://github.com/MANCrimSon/YouTube-ReVanced-Extended/releases/download/170/youtube-music-revanced-extended-magisk-v8.12.53-arm-v7a.zip\"],[\"youtube-music-revanced-extended-magisk-v8.12.53-arm64-v8a.zip\",\"https://github.com/MANCrimSon/YouTube-ReVanced-Extended/releases/download/170/youtube-music-revanced-extended-magisk-v8.12.53-arm64-v8a.zip\"],[\"youtube-music-revanced-extended-v8.12.53-arm-v7a.apk\",\"https://api.github.com/repos/MANCrimSon/YouTube-ReVanced-Extended/releases/assets/257914697\"],[\"youtube-music-revanced-extended-v8.12.53-arm64-v8a.apk\",\"https://api.github.com/repos/MANCrimSon/YouTube-ReVanced-Extended/releases/assets/257914693\"],[\"youtube-revanced-extended-magisk-v20.12.46-all.zip\",\"https://github.com/MANCrimSon/YouTube-ReVanced-Extended/releases/download/170/youtube-revanced-extended-magisk-v20.12.46-all.zip\"],[\"170.tar.gz\",\"https://api.github.com/repos/MANCrimSon/YouTube-ReVanced-Extended/tarball/170\"],[\"170.zip\",\"https://api.github.com/repos/MANCrimSon/YouTube-ReVanced-Extended/zipball/170\"]]",
             "preferredApkIndex": 0,
             "additionalSettings": "{\"includePrereleases\":false,\"fallbackToOlderReleases\":true,\"filterReleaseTitlesByRegEx\":\"\",\"filterReleaseNotesByRegEx\":\"\",\"verifyLatestTag\":false,\"sortMethodChoice\":\"date\",\"useLatestAssetDateAsReleaseDate\":false,\"releaseTitleAsVersion\":false,\"trackOnly\":false,\"versionExtractionRegEx\":\"\",\"matchGroupToUse\":\"\",\"versionDetection\":false,\"releaseDateAsVersion\":false,\"useVersionCodeAsOSVersion\":false,\"apkFilterRegEx\":\"youtube-revanced-extended-v\\\\d+\\\\.\\\\d+\\\\.\\\\d+-all\\\\.apk\",\"invertAPKFilter\":false,\"autoApkFilterByArch\":true,\"appName\":\"YouTube Revanced Extended\",\"appAuthor\":\"\",\"shizukuPretendToBeGooglePlay\":false,\"allowInsecure\":false,\"exemptFromBackgroundUpdates\":false,\"skipUpdateNotifications\":false,\"about\":\"\",\"refreshBeforeDownload\":false,\"dontSortReleasesList\":false}",
-            "lastUpdateCheck": 1746911640355384,
+            "lastUpdateCheck": 1748462849576958,
             "pinned": false,
             "categories": [
                 "Revanced",
                 "Streaming"
             ],
-            "releaseDate": 1746907125000000,
-            "changeLog": "YouTube-Extended: 20.12.46  \nYouTube-Music-Extended (arm64-v8a): 8.12.53  \nYouTube-Music-Extended (arm-v7a): 8.12.53  \n\nUse [zygisk-detach](https://github.com/j-hc/zygisk-detach) to detach root YouTube and YT Music from Play Store  \n\nInstall [MicroG](https://github.com/WSTxda/MicroG-RE/releases) for non-root YouTube and YT Music APKs  \n\n[YouTube-ReVanced-Extended](https://github.com/MANCrimSon/YouTube-ReVanced-Extended)\n  \nCLI: inotia00/revanced-cli-5.0.1-all.jar  \nPatches: anddea/patches-3.8.1-dev.1.rvp  \n[Changelog](https://github.com/anddea/revanced-patches/releases/tag/v3.8.1-dev.1)",
+            "releaseDate": 1748153341000000,
+            "changeLog": "YouTube-Extended: 20.12.46  \nYouTube-Music-Extended (arm64-v8a): 8.12.53  \nYouTube-Music-Extended (arm-v7a): 8.12.53  \n\nUse [zygisk-detach](https://github.com/j-hc/zygisk-detach) to detach root YouTube and YT Music from Play Store  \n\nInstall [MicroG](https://github.com/WSTxda/MicroG-RE/releases) for non-root YouTube and YT Music APKs  \n\n[YouTube-ReVanced-Extended](https://github.com/MANCrimSon/YouTube-ReVanced-Extended)\n  \nCLI: inotia00/revanced-cli-5.0.1-all.jar  \nPatches: anddea/patches-3.9.0.rvp  \n[Changelog](https://github.com/anddea/revanced-patches/releases/tag/v3.9.0)\n\nPatches: anddea/patches-3.9.0.rvp  \n[Changelog](https://github.com/anddea/revanced-patches/releases/tag/v3.9.0)",
             "overrideSource": null,
             "allowIdChange": false
         },
@@ -644,19 +644,19 @@
             "url": "https://github.com/RikkaApps/Shizuku",
             "author": "RikkaApps",
             "name": "Shizuku",
-            "installedVersion": "v13.5.4",
-            "latestVersion": "v13.5.4",
-            "apkUrls": "[[\"shizuku-v13.5.4.r1049.0e53409-release.apk\",\"https://api.github.com/repos/RikkaApps/Shizuku/releases/assets/155908442\"]]",
-            "otherAssetUrls": "[[\"v13.5.4.tar.gz\",\"https://api.github.com/repos/RikkaApps/Shizuku/tarball/v13.5.4\"],[\"v13.5.4.zip\",\"https://api.github.com/repos/RikkaApps/Shizuku/zipball/v13.5.4\"]]",
+            "installedVersion": "v13.6.0",
+            "latestVersion": "v13.6.0",
+            "apkUrls": "[[\"shizuku-v13.6.0.r1086.2650830c-release.apk\",\"https://api.github.com/repos/RikkaApps/Shizuku/releases/assets/257967798\"]]",
+            "otherAssetUrls": "[[\"v13.6.0.tar.gz\",\"https://api.github.com/repos/RikkaApps/Shizuku/tarball/v13.6.0\"],[\"v13.6.0.zip\",\"https://api.github.com/repos/RikkaApps/Shizuku/zipball/v13.6.0\"]]",
             "preferredApkIndex": 0,
             "additionalSettings": "{\"includePrereleases\":false,\"fallbackToOlderReleases\":true,\"filterReleaseTitlesByRegEx\":\"\",\"filterReleaseNotesByRegEx\":\"\",\"verifyLatestTag\":false,\"sortMethodChoice\":\"date\",\"useLatestAssetDateAsReleaseDate\":false,\"releaseTitleAsVersion\":false,\"trackOnly\":false,\"versionExtractionRegEx\":\"\",\"matchGroupToUse\":\"\",\"versionDetection\":false,\"releaseDateAsVersion\":false,\"useVersionCodeAsOSVersion\":false,\"apkFilterRegEx\":\"\",\"invertAPKFilter\":false,\"autoApkFilterByArch\":true,\"appName\":\"\",\"appAuthor\":\"\",\"shizukuPretendToBeGooglePlay\":false,\"allowInsecure\":false,\"exemptFromBackgroundUpdates\":false,\"skipUpdateNotifications\":false,\"about\":\"\",\"refreshBeforeDownload\":false,\"dontSortReleasesList\":false}",
-            "lastUpdateCheck": 1746911634605245,
+            "lastUpdateCheck": 1748462843524414,
             "pinned": false,
             "categories": [
                 "Mods"
             ],
-            "releaseDate": 1710075383000000,
-            "changeLog": "## What's Changed\r\n\r\n- Works on Android 14 QPR 3 beta 2\r\n\r\n\r\n**Full Changelog**: https://github.com/RikkaApps/Shizuku/compare/v13.5.3...v13.5.4",
+            "releaseDate": 1748179187000000,
+            "changeLog": "## What's Changed\r\n- Support Android16 QPR1\r\n- Update the start command. You can copy this file to any executable location, such as /data/local/tmp/shizuku\r\n- Support auto start without root on Android13+ when connected to a trusted WLAN\r\n\r\n**Full Changelog**: https://github.com/RikkaApps/Shizuku/compare/v13.5.4...v13.6.0",
             "overrideSource": null,
             "allowIdChange": false
         },
@@ -666,18 +666,18 @@
             "author": "Goooler",
             "name": "Lawnchair",
             "installedVersion": null,
-            "latestVersion": "15.0.0-20250124",
-            "apkUrls": "[[\"Lawnchair-15.0.0-202501240710-efe6871.apk\",\"https://api.github.com/repos/Goooler/LawnchairRelease/releases/assets/223030329\"]]",
-            "otherAssetUrls": "[[\"mapping.txt\",\"https://github.com/Goooler/LawnchairRelease/releases/download/15.0.0-20250124/mapping.txt\"],[\"15.0.0-20250124.tar.gz\",\"https://api.github.com/repos/Goooler/LawnchairRelease/tarball/15.0.0-20250124\"],[\"15.0.0-20250124.zip\",\"https://api.github.com/repos/Goooler/LawnchairRelease/zipball/15.0.0-20250124\"]]",
+            "latestVersion": "15.0.0-20250525",
+            "apkUrls": "[[\"Lawnchair-15.0.0-202505251123-babf8cd.apk\",\"https://api.github.com/repos/Goooler/LawnchairRelease/releases/assets/257951069\"]]",
+            "otherAssetUrls": "[[\"mapping.txt\",\"https://github.com/Goooler/LawnchairRelease/releases/download/15.0.0-20250525/mapping.txt\"],[\"15.0.0-20250525.tar.gz\",\"https://api.github.com/repos/Goooler/LawnchairRelease/tarball/15.0.0-20250525\"],[\"15.0.0-20250525.zip\",\"https://api.github.com/repos/Goooler/LawnchairRelease/zipball/15.0.0-20250525\"]]",
             "preferredApkIndex": 0,
             "additionalSettings": "{\"includePrereleases\":false,\"fallbackToOlderReleases\":true,\"filterReleaseTitlesByRegEx\":\"\",\"filterReleaseNotesByRegEx\":\"\",\"verifyLatestTag\":false,\"sortMethodChoice\":\"date\",\"useLatestAssetDateAsReleaseDate\":false,\"releaseTitleAsVersion\":false,\"trackOnly\":false,\"versionExtractionRegEx\":\"\",\"matchGroupToUse\":\"\",\"versionDetection\":false,\"releaseDateAsVersion\":false,\"useVersionCodeAsOSVersion\":false,\"apkFilterRegEx\":\"\",\"invertAPKFilter\":false,\"autoApkFilterByArch\":true,\"appName\":\"\",\"appAuthor\":\"\",\"shizukuPretendToBeGooglePlay\":false,\"allowInsecure\":false,\"exemptFromBackgroundUpdates\":false,\"skipUpdateNotifications\":false,\"about\":\"\",\"refreshBeforeDownload\":false,\"dontSortReleasesList\":false}",
-            "lastUpdateCheck": 1737731881454604,
+            "lastUpdateCheck": 1748480501198351,
             "pinned": false,
             "categories": [
                 "Launcher"
             ],
-            "releaseDate": 1737703097000000,
-            "changeLog": "<!-- Release notes generated using configuration in .github/release.yml at trunk -->\n\n\n\n**Full Changelog**: https://github.com/Goooler/LawnchairRelease/compare/15.0.0-20250122...15.0.0-20250124",
+            "releaseDate": 1748172670000000,
+            "changeLog": "<!-- Release notes generated using configuration in .github/release.yml at trunk -->\n\n\n\n**Full Changelog**: https://github.com/Goooler/LawnchairRelease/compare/15.0.0-20250518...15.0.0-20250525",
             "overrideSource": null,
             "allowIdChange": false
         },
@@ -692,7 +692,7 @@
             "otherAssetUrls": "[[\"5.11.tar.gz\",\"https://api.github.com/repos/WSTxda/MicroG-RE/tarball/5.11\"],[\"5.11.zip\",\"https://api.github.com/repos/WSTxda/MicroG-RE/zipball/5.11\"]]",
             "preferredApkIndex": 0,
             "additionalSettings": "{\"includePrereleases\":false,\"fallbackToOlderReleases\":true,\"filterReleaseTitlesByRegEx\":\"\",\"filterReleaseNotesByRegEx\":\"\",\"verifyLatestTag\":false,\"sortMethodChoice\":\"date\",\"useLatestAssetDateAsReleaseDate\":false,\"releaseTitleAsVersion\":false,\"trackOnly\":false,\"versionExtractionRegEx\":\"\",\"matchGroupToUse\":\"\",\"versionDetection\":false,\"releaseDateAsVersion\":false,\"useVersionCodeAsOSVersion\":false,\"apkFilterRegEx\":\"\",\"invertAPKFilter\":false,\"autoApkFilterByArch\":true,\"appName\":\"microG - Revanced (for devices with regular Play Services)\",\"appAuthor\":\"\",\"shizukuPretendToBeGooglePlay\":false,\"allowInsecure\":false,\"exemptFromBackgroundUpdates\":false,\"skipUpdateNotifications\":false,\"about\":\"\",\"refreshBeforeDownload\":false,\"dontSortReleasesList\":false}",
-            "lastUpdateCheck": 1746911633596578,
+            "lastUpdateCheck": 1748462841561715,
             "pinned": false,
             "categories": [
                 "Revanced"
@@ -734,7 +734,7 @@
             "otherAssetUrls": "[[\"v3.3.4.tar.gz\",\"https://api.github.com/repos/beemdevelopment/Aegis/tarball/v3.3.4\"],[\"v3.3.4.zip\",\"https://api.github.com/repos/beemdevelopment/Aegis/zipball/v3.3.4\"]]",
             "preferredApkIndex": 0,
             "additionalSettings": "{\"includePrereleases\":false,\"fallbackToOlderReleases\":true,\"filterReleaseTitlesByRegEx\":\"\",\"filterReleaseNotesByRegEx\":\"\",\"verifyLatestTag\":false,\"sortMethodChoice\":\"date\",\"useLatestAssetDateAsReleaseDate\":false,\"releaseTitleAsVersion\":false,\"trackOnly\":false,\"versionExtractionRegEx\":\"\",\"matchGroupToUse\":\"\",\"versionDetection\":false,\"releaseDateAsVersion\":false,\"useVersionCodeAsOSVersion\":false,\"apkFilterRegEx\":\"\",\"invertAPKFilter\":false,\"autoApkFilterByArch\":true,\"appName\":\"\",\"appAuthor\":\"\",\"shizukuPretendToBeGooglePlay\":false,\"allowInsecure\":false,\"exemptFromBackgroundUpdates\":false,\"skipUpdateNotifications\":false,\"about\":\"\",\"refreshBeforeDownload\":false,\"dontSortReleasesList\":false}",
-            "lastUpdateCheck": 1746911635490269,
+            "lastUpdateCheck": 1748462842930779,
             "pinned": false,
             "categories": [
                 "Security"
@@ -776,7 +776,7 @@
             "otherAssetUrls": "[[\"3.0.tar.gz\",\"https://api.github.com/repos/Delta-Icons/breezy-weather/tarball/3.0\"],[\"3.0.zip\",\"https://api.github.com/repos/Delta-Icons/breezy-weather/zipball/3.0\"]]",
             "preferredApkIndex": 0,
             "additionalSettings": "{\"includePrereleases\":false,\"fallbackToOlderReleases\":true,\"filterReleaseTitlesByRegEx\":\"\",\"filterReleaseNotesByRegEx\":\"\",\"verifyLatestTag\":false,\"sortMethodChoice\":\"date\",\"useLatestAssetDateAsReleaseDate\":false,\"releaseTitleAsVersion\":false,\"trackOnly\":false,\"versionExtractionRegEx\":\"\",\"matchGroupToUse\":\"\",\"versionDetection\":true,\"releaseDateAsVersion\":false,\"useVersionCodeAsOSVersion\":false,\"apkFilterRegEx\":\"\",\"invertAPKFilter\":false,\"autoApkFilterByArch\":true,\"appName\":\"\",\"appAuthor\":\"\",\"shizukuPretendToBeGooglePlay\":false,\"allowInsecure\":false,\"exemptFromBackgroundUpdates\":false,\"skipUpdateNotifications\":false,\"about\":\"\",\"refreshBeforeDownload\":false,\"dontSortReleasesList\":false}",
-            "lastUpdateCheck": 1746911633655750,
+            "lastUpdateCheck": 1748462842998354,
             "pinned": false,
             "categories": [
                 "Visual",
@@ -850,13 +850,107 @@
             "changeLog": "Update translations\n",
             "overrideSource": null,
             "allowIdChange": true
+        },
+        {
+            "id": "io.github.snd_r.komelia",
+            "url": "https://github.com/Snd-R/Komelia",
+            "author": "Snd-R",
+            "name": "Komelia",
+            "installedVersion": "0.15.0",
+            "latestVersion": "0.15.0",
+            "apkUrls": "[[\"Komelia-0.15.0-android-universal.apk\",\"https://api.github.com/repos/Snd-R/Komelia/releases/assets/235973805\"]]",
+            "otherAssetUrls": "[[\"Komelia-0.15.0-linux-x64.deb\",\"https://github.com/Snd-R/Komelia/releases/download/0.15.0/Komelia-0.15.0-linux-x64.deb\"],[\"Komelia-0.15.0-linux-x64.jar\",\"https://github.com/Snd-R/Komelia/releases/download/0.15.0/Komelia-0.15.0-linux-x64.jar\"],[\"Komelia-0.15.0-windows-x64.msi\",\"https://github.com/Snd-R/Komelia/releases/download/0.15.0/Komelia-0.15.0-windows-x64.msi\"],[\"0.15.0.tar.gz\",\"https://api.github.com/repos/Snd-R/Komelia/tarball/0.15.0\"],[\"0.15.0.zip\",\"https://api.github.com/repos/Snd-R/Komelia/zipball/0.15.0\"]]",
+            "preferredApkIndex": 0,
+            "additionalSettings": "{\"includePrereleases\":false,\"fallbackToOlderReleases\":true,\"filterReleaseTitlesByRegEx\":\"\",\"filterReleaseNotesByRegEx\":\"\",\"verifyLatestTag\":false,\"sortMethodChoice\":\"date\",\"useLatestAssetDateAsReleaseDate\":false,\"releaseTitleAsVersion\":false,\"trackOnly\":false,\"versionExtractionRegEx\":\"\",\"matchGroupToUse\":\"\",\"versionDetection\":true,\"releaseDateAsVersion\":false,\"useVersionCodeAsOSVersion\":false,\"apkFilterRegEx\":\"\",\"invertAPKFilter\":false,\"autoApkFilterByArch\":true,\"appName\":\"\",\"appAuthor\":\"\",\"shizukuPretendToBeGooglePlay\":false,\"allowInsecure\":false,\"exemptFromBackgroundUpdates\":false,\"skipUpdateNotifications\":false,\"about\":\"\",\"refreshBeforeDownload\":false}",
+            "lastUpdateCheck": 1748480541948603,
+            "pinned": false,
+            "categories": [
+                "Self-host"
+            ],
+            "releaseDate": 1741551925000000,
+            "changeLog": "## Common\r\n- Added downsampling kernel options (Lanczos3, Lanczos2 and Mitchell)\r\n- Added option to downsample images in linear light\r\n- Added animated images support (GIF, JXL, WebP,  multipage TIFF, HEIC, AVIF)\r\n- Added image previews when dragging navigation slider in image reader\r\n- Added OLED friendly `Darker` theme with pure black background\r\n- Fixed login persistence issues with latest Komga version\r\n- Fixed crash caused by big (>200) amount of books being shown on series screen on high DPI displays\r\n- Fixed series/books titles being displayed on image cards in list view\r\n- Fixed issue when screen state was reset after navigating back from reader/settings screen\r\n- Fixed single non landscape page zoom issues in double pages mode\r\n## Android\r\n- Added upsampling config options (Nearest neighbor and Bilinear)\r\n- Added volume keys navigation option\r\n## Desktop\r\n- Moved ONNX Runtime upscale options to separate config dropdown\r\n- Updated ONNX Runtime to version 1.20.1",
+            "overrideSource": null,
+            "allowIdChange": false
+        },
+        {
+            "id": "com.drdisagree.pixellauncherenhanced",
+            "url": "https://github.com/Mahmud0808/PixelLauncherEnhanced",
+            "author": "Mahmud0808",
+            "name": "PixelLauncherEnhanced",
+            "installedVersion": null,
+            "latestVersion": "v1.0.3",
+            "apkUrls": "[[\"PLEnhanced.v1.0.3.apk\",\"https://api.github.com/repos/Mahmud0808/PixelLauncherEnhanced/releases/assets/251744906\"]]",
+            "otherAssetUrls": "[[\"v1.0.3.tar.gz\",\"https://api.github.com/repos/Mahmud0808/PixelLauncherEnhanced/tarball/v1.0.3\"],[\"v1.0.3.zip\",\"https://api.github.com/repos/Mahmud0808/PixelLauncherEnhanced/zipball/v1.0.3\"]]",
+            "preferredApkIndex": 0,
+            "additionalSettings": "{\"includePrereleases\":false,\"fallbackToOlderReleases\":true,\"filterReleaseTitlesByRegEx\":\"\",\"filterReleaseNotesByRegEx\":\"\",\"verifyLatestTag\":false,\"sortMethodChoice\":\"date\",\"useLatestAssetDateAsReleaseDate\":false,\"releaseTitleAsVersion\":false,\"trackOnly\":false,\"versionExtractionRegEx\":\"\",\"matchGroupToUse\":\"\",\"versionDetection\":true,\"releaseDateAsVersion\":false,\"useVersionCodeAsOSVersion\":false,\"apkFilterRegEx\":\"\",\"invertAPKFilter\":false,\"autoApkFilterByArch\":true,\"appName\":\"\",\"appAuthor\":\"\",\"shizukuPretendToBeGooglePlay\":false,\"allowInsecure\":false,\"exemptFromBackgroundUpdates\":false,\"skipUpdateNotifications\":false,\"about\":\"\",\"refreshBeforeDownload\":false}",
+            "lastUpdateCheck": 1748479734905455,
+            "pinned": false,
+            "categories": [
+                "Visual",
+                "Launcher",
+                "Mods",
+                "Root",
+                "Xposed"
+            ],
+            "releaseDate": 1746363136000000,
+            "changeLog": "## Chagelog:\r\n\r\n- Improved drawer row height multiplier with additional steps.\r\n- Fixed shortcut badge hiding on Android 16 Beta 4.\r\n- Resolved crash when hiding status bar on certain launcher versions.\r\n- Fixed random disappearance of dock icons.\r\n- Addressed quick app switching issues when \"Clear All\" is enabled in specific cases.\r\n- Added per-app language support for PLEnhanced.\r\n\r\nTranslation credit goes to all the contributors on [our crowdin platform](https://crowdin.com/project/pixellauncher-enhanced).",
+            "overrideSource": null,
+            "allowIdChange": false
+        },
+        {
+            "id": "com.richardluo.globalIconPack",
+            "url": "https://github.com/RichardLuo0/global-icon-pack-android",
+            "author": "RichardLuo0",
+            "name": "global-icon-pack-android",
+            "installedVersion": null,
+            "latestVersion": "0.4.2",
+            "apkUrls": "[[\"app-release.apk\",\"https://api.github.com/repos/RichardLuo0/global-icon-pack-android/releases/assets/257469927\"]]",
+            "otherAssetUrls": "[[\"0.4.2.tar.gz\",\"https://api.github.com/repos/RichardLuo0/global-icon-pack-android/tarball/0.4.2\"],[\"0.4.2.zip\",\"https://api.github.com/repos/RichardLuo0/global-icon-pack-android/zipball/0.4.2\"]]",
+            "preferredApkIndex": 0,
+            "additionalSettings": "{\"includePrereleases\":false,\"fallbackToOlderReleases\":true,\"filterReleaseTitlesByRegEx\":\"\",\"filterReleaseNotesByRegEx\":\"\",\"verifyLatestTag\":false,\"sortMethodChoice\":\"date\",\"useLatestAssetDateAsReleaseDate\":false,\"releaseTitleAsVersion\":false,\"trackOnly\":false,\"versionExtractionRegEx\":\"\",\"matchGroupToUse\":\"\",\"versionDetection\":true,\"releaseDateAsVersion\":false,\"useVersionCodeAsOSVersion\":false,\"apkFilterRegEx\":\"\",\"invertAPKFilter\":false,\"autoApkFilterByArch\":true,\"appName\":\"Global Icon Pack\",\"appAuthor\":\"\",\"shizukuPretendToBeGooglePlay\":false,\"allowInsecure\":false,\"exemptFromBackgroundUpdates\":false,\"skipUpdateNotifications\":false,\"about\":\"\",\"refreshBeforeDownload\":false}",
+            "lastUpdateCheck": 1748479751279271,
+            "pinned": false,
+            "categories": [
+                "Visual",
+                "Mods",
+                "Icons",
+                "Root",
+                "Xposed"
+            ],
+            "releaseDate": 1748009460000000,
+            "changeLog": "## 🚀 Features\r\n\r\n- feat: improved page transition and shared bounds between pages\r\n\r\n## 💬 Other\r\n\r\n- build: match `fix(a.xml): xxx`",
+            "overrideSource": null,
+            "allowIdChange": true
+        },
+        {
+            "id": "com.topjohnwu.magisk",
+            "url": "https://github.com/topjohnwu/Magisk",
+            "author": "topjohnwu",
+            "name": "Magisk",
+            "installedVersion": null,
+            "latestVersion": "v29.0",
+            "apkUrls": "[[\"Magisk-v29.0.apk\",\"https://api.github.com/repos/topjohnwu/Magisk/releases/assets/254642691\"]]",
+            "otherAssetUrls": "[[\"v29.0.tar.gz\",\"https://api.github.com/repos/topjohnwu/Magisk/tarball/v29.0\"],[\"v29.0.zip\",\"https://api.github.com/repos/topjohnwu/Magisk/zipball/v29.0\"]]",
+            "preferredApkIndex": 0,
+            "additionalSettings": "{\"includePrereleases\":false,\"fallbackToOlderReleases\":true,\"filterReleaseTitlesByRegEx\":\"\",\"filterReleaseNotesByRegEx\":\"\",\"verifyLatestTag\":false,\"sortMethodChoice\":\"date\",\"useLatestAssetDateAsReleaseDate\":false,\"releaseTitleAsVersion\":false,\"trackOnly\":false,\"versionExtractionRegEx\":\"\",\"matchGroupToUse\":\"\",\"versionDetection\":true,\"releaseDateAsVersion\":false,\"useVersionCodeAsOSVersion\":false,\"apkFilterRegEx\":\"\",\"invertAPKFilter\":false,\"autoApkFilterByArch\":true,\"appName\":\"\",\"appAuthor\":\"\",\"shizukuPretendToBeGooglePlay\":false,\"allowInsecure\":false,\"exemptFromBackgroundUpdates\":false,\"skipUpdateNotifications\":false,\"about\":\"\",\"refreshBeforeDownload\":false}",
+            "lastUpdateCheck": 1748479709342156,
+            "pinned": false,
+            "categories": [
+                "Mods",
+                "Root"
+            ],
+            "releaseDate": 1747211583000000,
+            "changeLog": "This release looks minor at the surface, however, the entire codebase has gone through significant refactoring and migration. The native code in Magisk used to be mainly C++, but several contributors and I have been steadily rewriting parts of the code in Rust since April 2022. After years of effort, the Rust-ification of the project slowly began picking up steam, and at the moment of this release, over 40% of the native code has been rewritten in Rust, with several major subsystem rewrites in the PR queue, planned to be merged for the next release.\r\n\r\nMany might wonder, why introduce a new language to the project? My reason is actually not to reduce memory safety issues (although it is a nice side benefit), but to be able to develop Magisk using a more modern programming language. After using Rust for a while, it's clear to me that using Rust allows me to write more correct code and makes me happier compared to dealing with C++. People share the [same sentiment as I do](https://threadreaderapp.com/thread/1577667445719912450.html).\r\n\r\n## Changelog\r\n\r\n- [General] Massive internal refactoring and code migration\r\n- [App] Support downloading module zip files with XZ compression\r\n- [App] Disable app animations when system animations are disabled\r\n- [MagiskMount] Support systemlessly deleting files with modules using blank file nodes\r\n- [MagiskInit] Redesign sepolicy patching and injection logic\r\n- [MagiskSU] Better TTY/PTY support\r\n\r\n### Full Changelog: [here](https://topjohnwu.github.io/Magisk/changes.html)\r\n",
+            "overrideSource": null,
+            "allowIdChange": false
         }
     ],
     "settings": {
         "checkOnStart": false,
-        "categories": "{\"App Management\":4288980455,\"Social\":4293497263,\"Visual\":4293431474,\"Weather\":4283022994,\"Security\":4293431479,\"Revanced\":4278304444,\"Launcher\":4293432224,\"Streaming\":4293431479,\"Alt 3rd Party\":4293431474,\"Mods\":4292449237,\"Icons\":4292451959,\"Self-host\":4284331484,\"Sync\":4287608678,\"Input\":4279615404,\"Widgets\":4292451959,\"File Manager\":4288328800,\"Browser\":4286034146,\"Local Media\":4281974683,\"Core Functionality\":4291205857}",
+        "welcomeShown": true,
+        "categories": "{\"App Management\":4288980455,\"Social\":4293497263,\"Visual\":4293431474,\"Weather\":4283022994,\"Security\":4293431479,\"Revanced\":4278304444,\"Launcher\":4293432224,\"Streaming\":4293431479,\"Alt 3rd Party\":4293431474,\"Mods\":4292449237,\"Icons\":4292451959,\"Self-host\":4284331484,\"Sync\":4287608678,\"Input\":4279615404,\"Widgets\":4292451959,\"File Manager\":4288328800,\"Browser\":4286034146,\"Local Media\":4281974683,\"Core Functionality\":4291205857,\"Root\":4287605734,\"Xposed\":4280860580}",
         "hideAPKOriginWarning": true,
-        "lastCompletedBGCheckTime": 1746911643273,
+        "lastCompletedBGCheckTime": 1748462855059,
         "updateIntervalSliderVal": 8.049999999999999,
         "parallelDownloads": true,
         "firstRun": false,
@@ -866,7 +960,6 @@
         "useMaterialYou": true,
         "onlyCheckInstalledOrTrackOnlyApps": true,
         "useSystemFont": true,
-        "welcomeShown": true,
         "exportDir": "content://com.android.externalstorage.documents/tree/primary%3ADownload%2FObtainium%20Exports"
     }
 }
