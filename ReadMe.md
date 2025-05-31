@@ -77,8 +77,6 @@ Enjoy your FOSS app journey!
 -   🎥 **Media Player**: [VLC](https://github.com/videolan/vlc-android)
 -   🎵 **YouTube Music**: [YouTube Music ReVanced Extended](https://github.com/MANCrimSon/YouTube-ReVanced-Extended) – Better version of the YouTube Music client
 -   📺 **YouTube**: [YouTube ReVanced Extended](https://github.com/MANCrimSon/YouTube-ReVanced-Extended) – Better version of the YouTube client
-
-<!-- v1.9 additions below -->
 -   ☕ **Screen Keep Awake**: [Coffee](https://github.com/mueller-ma/Coffee) – Quick tile for screen awake
 -   🎨 **System-wide Icon Theming**: [Global Icon Pack](https://github.com/RIchardLuo0/Global-Icon-Pack) – Icon pack for global theming 
 -   📚 **Comic Reader**: [Komelia](https://github.com/Snd-R/Komelia) – (requires Komga or Kavita instance)
