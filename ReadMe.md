@@ -81,6 +81,6 @@ Enjoy your FOSS app journey!
 <!-- v1.9 additions below -->
 -   ☕ **Screen Keep Awake**: [Coffee](https://github.com/mueller-ma/Coffee) – Quick tile for screen awake
 -   🎨 **System-wide Icon Theming**: [Global Icon Pack](https://github.com/RIchardLuo0/Global-Icon-Pack) – Icon pack for global theming 
--   🅺 **Comic Reader**: [Komelia](https://github.com/Snd-R/Komelia) – (requires Komga or Kavita instance)
+-   📚 **Comic Reader**: [Komelia](https://github.com/Snd-R/Komelia) – (requires Komga or Kavita instance)
 -   🚀 **Pixel Launcher Improvements**: [PixelLauncherEnhanced](https://github.com/Mahmud0808/PixelLauncherEnhanced) – Enhanced Pixel Launcher
 -   🔒 **Private DNS Toggle**: [Private DNS Quick Toggle](https://github.com/karasevm/Private-DNS-Quick-Toggle) – Quick toggle for Private DNS (by karasevm)
