@@ -60,7 +60,7 @@ Enjoy your FOSS app journey!
 -   🚀 **Launcher**: [Lawnchair](https://github.com/Goooler/LawnchairRelease) – Lawnchair signed builds
 -   🎧 **Audiobooks**: [Lissen](https://github.com/JonnyBurger/lissen) – Alternative Audiobookshelf client (requires Audiobookshelf instance)
 -   📁 **File Manager**: [Material Files](https://f-droid.org/packages/me.zhanghai.android.files/)
--   📱 **GmsCore**: [MicroG](https://github.com/microg/GmsCore) – GmsCore from the microG team (two packages, root no longer required for full experience) | [MicroG-RE](https://github.com/WSTx[...]
+-   📱 **GmsCore**: [MicroG](https://github.com/microg/GmsCore) – GmsCore from the microG team (two packages, root no longer required for full experience) | [MicroG-RE](https://github.com/WSTxda/MicroG-RE) - GmsCore if you only need it for YouTube Revanced and YouTube Music Revanced
 -   📦 **FOSS Package Manager**: [Obtainium](https://github.com/ImranR98/Obtainium) – Download apks from Github and other services
 -   🎵 **Scrobbling**: [Pano Scrobbler](https://github.com/kawaiiDango/PanoScrobbler)
 -   🔒 **Private DNS Tile**: [Private DNS Quick Toggle](https://github.com/adinatrapani/Private-DNS-Quick-Toggle) – Quick Settings tile for private DNS
@@ -69,7 +69,7 @@ Enjoy your FOSS app journey!
 -   🏢 **Work Profile**: [Shelter](https://f-droid.org/packages/net.typeblog.shelter/) – Work profile manager
 -   ⚙️ **Elevated Access**: [Shizuku](https://github.com/RikkaApps/Shizuku) – Elevated access provider
 -   🔗 **Networking**: [Tailscale](https://github.com/tailscale/tailscale) – Secure network access
--   💬 **Telegram**: [Telegram](https://telegram.org/) – Official client | [Cherrygram](https://github.com/arsLan4k1390/Cherrygram) - Unofficial Telegram client with additional features (inclu[...]
+-   💬 **Telegram**: [Telegram](https://telegram.org/) – Official client | [Cherrygram](https://github.com/arsLan4k1390/Cherrygram) - Unofficial Telegram client with additional features
 -   🎨 **Theming**: [Telemone](https://github.com/ananpay/tilemone) – Telegram themer (not necessary for Cherrygram)
 -   🎵 **Music**: [Tempo](https://github.com/CappielloAntonio/tempo) – Music app (requires Subsonic instance)
 -   📧 **Email**: [Thunderbird](https://github.com/thundermail/thunderbird) – Email client
