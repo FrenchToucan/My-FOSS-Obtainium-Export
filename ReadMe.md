@@ -78,7 +78,7 @@ Enjoy your FOSS app journey!
 -   🎵 **YouTube Music**: [YouTube Music ReVanced Extended](https://github.com/MANCrimSon/YouTube-ReVanced-Extended) – Better version of the YouTube Music client
 -   📺 **YouTube**: [YouTube ReVanced Extended](https://github.com/MANCrimSon/YouTube-ReVanced-Extended) – Better version of the YouTube client
 -   ☕ **Screen Keep Awake**: [Coffee](https://github.com/mueller-ma/Coffee) – Quick tile for screen awake
--   🎨 **System-wide Icon Theming**: [Global Icon Pack](https://github.com/RIchardLuo0/Global-Icon-Pack) – Icon pack for global theming 
+-   🎨 **System-wide Icon Theming**: [Global Icon Pack](https://github.com/RIchardLuo0/Global-Icon-Pack) – Apply icon packs globally (root, lsposed required)
 -   📚 **Comic Reader**: [Komelia](https://github.com/Snd-R/Komelia) – (requires Komga or Kavita instance)
--   🚀 **Pixel Launcher Improvements**: [PixelLauncherEnhanced](https://github.com/Mahmud0808/PixelLauncherEnhanced) – Enhanced Pixel Launcher
--   🔒 **Private DNS Toggle**: [Private DNS Quick Toggle](https://github.com/karasevm/Private-DNS-Quick-Toggle) – Quick toggle for Private DNS (by karasevm)
+-   🚀 **Pixel Launcher Improvements**: [PixelLauncherEnhanced](https://github.com/Mahmud0808/PixelLauncherEnhanced) – Enhance Pixel Launcher (root,lsposed required)
+-   🔒 **Private DNS Toggle**: [Private DNS Quick Toggle](https://github.com/karasevm/Private-DNS-Quick-Toggle) – Quick toggle for Private DNS
