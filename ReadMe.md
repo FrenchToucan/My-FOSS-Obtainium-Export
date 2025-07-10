@@ -82,3 +82,4 @@ Enjoy your FOSS app journey!
 -   📚 **Comic Reader**: [Komelia](https://github.com/Snd-R/Komelia) – (requires Komga or Kavita instance)
 -   🚀 **Pixel Launcher Improvements**: [PixelLauncherEnhanced](https://github.com/Mahmud0808/PixelLauncherEnhanced) – Enhance Pixel Launcher (root,lsposed required)
 -   🔒 **Private DNS Toggle**: [Private DNS Quick Toggle](https://github.com/karasevm/PrivateDNSAndroid) – Quick toggle for Private DNS
+-   🦾 **Stop Play Store Updates**: [Zygisk Detach App](https://github.com/j-hc/zygisk-detach-app) – Detach apps from Play Store (requires Magisk/KernelSU module [here](https://github.com/j-hc/zygisk-detach)) 
