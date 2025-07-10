@@ -65,7 +65,7 @@ Enjoy your FOSS app journey!
 -   🎵 **Scrobbling**: [Pano Scrobbler](https://github.com/kawaiiDango/PanoScrobbler)
 -   🔒 **Private DNS Tile**: [Private DNS Quick Toggle](https://github.com/adinatrapani/Private-DNS-Quick-Toggle) – Quick Settings tile for private DNS
 -   ☕ **Keep Awake Tile**: [Coffee](https://github.com/mueller-ma/Coffee) – Quick Settings tile to keep the screen awake
--   👾 **Reddit Client**: [Reddit ReVanced Extended](https://github.com/inotia00/ReVanced_Extended) – Better version of the Reddit client
+-   👾 **Reddit Client**: [Reddit ReVanced Extended](https://github.com/NoName-exe/revanced-mnml) – Better version of the Reddit client
 -   🏢 **Work Profile**: [Shelter](https://f-droid.org/packages/net.typeblog.shelter/) – Work profile manager
 -   ⚙️ **Elevated Access**: [Shizuku](https://github.com/RikkaApps/Shizuku) – Elevated access provider
 -   🔗 **Networking**: [Tailscale](https://github.com/tailscale/tailscale) – Secure network access
